@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Shorts"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Red"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Green"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Sleeveless Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "White"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Dark Yellow"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Baseball Hat"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Confused Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Space"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Lightning"
+        }
+    ]
+}

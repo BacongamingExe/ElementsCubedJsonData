@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Shorts"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "White"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Short Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Backwards Baseball Hat"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Red"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Glass Red"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Plus Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Omega Hole"
+        }
+    ]
+}

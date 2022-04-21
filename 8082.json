@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Jeans"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Light Tan"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Top Hat"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Dark Red"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Skin Tone 2"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Circle Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Heart"
+        }
+    ]
+}

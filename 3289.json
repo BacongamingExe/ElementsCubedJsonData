@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Boxers"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "No Hat"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Dark Pink"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Skin Tone 2"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Double S Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Metal"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Green Cross"
+        }
+    ]
+}

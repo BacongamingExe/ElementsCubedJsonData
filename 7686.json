@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Shorts"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Red"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Green"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Normal Hair"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Green"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Confused Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Metal"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Speed"
+        }
+    ]
+}

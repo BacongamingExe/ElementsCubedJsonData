@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Jeans"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Light Orange"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Split Color Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Red"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Headband"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Black"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Glass Orange"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Happy Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Space"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Spikes"
+        }
+    ]
+}

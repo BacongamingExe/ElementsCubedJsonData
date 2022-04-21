@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Shorts"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Light Tan"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Split Color Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Dark Yellow"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Afro"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Glass Red"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Circle Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Acid"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Omega Hole"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Shorts"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Red"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Light Tan"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Light Red"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Dark Pink"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Skin Tone 1"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Closed Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Aura"
+        }
+    ]
+}

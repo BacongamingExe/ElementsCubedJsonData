@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Shorts"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Split Color Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Light Purple"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Ponytail"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Skin Tone 2"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Square Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Acid"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Omega Hole"
+        }
+    ]
+}

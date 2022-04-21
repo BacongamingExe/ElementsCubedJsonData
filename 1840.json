@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Boxers"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Short Sleeve Split Color Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "White"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Light Pink"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Afro"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Skin Tone 5"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Closed Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Ribbon"
+        }
+    ]
+}

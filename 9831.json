@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Shorts"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Green"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Sleeveless Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Dark Gray"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "No Hat"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Closed Happy Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Nature"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Regeneration"
+        }
+    ]
+}

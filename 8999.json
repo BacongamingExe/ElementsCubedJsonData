@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Shorts"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Split Color Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Light Pink"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Puffballs"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Skin Tone 5"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Worn Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Space"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Bubbles"
+        }
+    ]
+}

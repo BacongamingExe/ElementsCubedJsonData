@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Shorts"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Light Orange"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Dark Yellow"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Red"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Skin Tone 1"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Plus Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Acid"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Spikes"
+        }
+    ]
+}

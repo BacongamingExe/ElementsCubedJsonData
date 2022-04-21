@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Bottomless Jeans"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Light Orange"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Split Color Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Dark Orange"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Beret"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Light Purple"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Glass Pink"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Confused Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Smoke"
+        }
+    ]
+}

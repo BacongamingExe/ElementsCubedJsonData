@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Bottomless Jeans"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Light Tan"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Short Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Light Purple"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Light Yellow"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Aviator Hat"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Light Pink"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Glass Green"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Double S Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Nature"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Mystery"
+        }
+    ]
+}

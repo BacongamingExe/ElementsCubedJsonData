@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Boxers"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Red"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "White"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Puffballs"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Skin Tone 4"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Double S Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Regeneration"
+        }
+    ]
+}

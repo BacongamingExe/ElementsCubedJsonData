@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Boxers"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Short Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Green"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Baseball Hat"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Skin Tone 5"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Closed Happy Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Space"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Speed"
+        }
+    ]
+}

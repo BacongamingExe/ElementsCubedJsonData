@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Shorts"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Black"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Short Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Green"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Light Red"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "White"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Glass Orange"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Circle Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Nature"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Green Cross"
+        }
+    ]
+}

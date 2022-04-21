@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Boxers"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Light Orange"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Sleeveless Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Beret"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "White"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Closed Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Ice"
+        }
+    ]
+}

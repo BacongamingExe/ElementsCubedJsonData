@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Boxers"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Short Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Dark Yellow"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Normal Hair"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Light Red"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Glass Purple"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Out Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Omega Hole"
+        }
+    ]
+}

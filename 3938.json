@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Jeans"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Light Orange"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Red"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Short Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Dark Red"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Normal Hair"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Skin Tone 4"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Out Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Air"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Mystery"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Shorts"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Red"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Light Tan"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Short Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Dark Gray"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Beret"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Glass Cyan"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Square Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Bubbles"
+        }
+    ]
+}

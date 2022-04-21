@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Jeans"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Light Tan"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Short Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Dark Gray"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Puffballs"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Out Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Omega Hole"
+        }
+    ]
+}

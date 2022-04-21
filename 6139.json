@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Jeans"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Red"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Sleeveless Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Black"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Beret"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Happy Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Ice"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Spikes"
+        }
+    ]
+}

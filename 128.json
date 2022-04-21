@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Boxers"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Light Orange"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Green"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Top Hat"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Dark Red"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Skin Tone 3"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Out Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Air"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Ribbon"
+        }
+    ]
+}

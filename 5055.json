@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Boxers"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Light Tan"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Split Color Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Black"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Puffballs"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Happy Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Omega Hole"
+        }
+    ]
+}

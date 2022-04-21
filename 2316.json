@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Shorts"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Light Orange"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Sleeveless Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Green"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Light Pink"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Baseball Hat"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Dark Orange"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Glass Orange"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Worn Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Omega Hole"
+        }
+    ]
+}

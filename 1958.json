@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Jeans"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "White"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Split Color Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Light Pink"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "No Hat"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Cautious Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Omega Hole"
+        }
+    ]
+}

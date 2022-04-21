@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Shorts"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Light Orange"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Dark Red"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Normal Hair"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Skin Tone 2"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Square Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Ribbon"
+        }
+    ]
+}

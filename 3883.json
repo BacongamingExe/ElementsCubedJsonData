@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Boxers"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Green"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Black"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Split Color Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Skin Tone 1"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Square Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Mystery"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Shorts"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Black"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Sleeveless Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "White"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Normal Hair"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Skin Tone 5"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Happy Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Ice"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Speed"
+        }
+    ]
+}

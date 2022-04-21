@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Bottomless Jeans"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Green"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Sleeveless Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Dark Gray"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Skin Tone 4"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Standard Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Ice"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Spikes"
+        }
+    ]
+}

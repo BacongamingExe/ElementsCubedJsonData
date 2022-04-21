@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Boxers"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Short Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Dark Yellow"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Baseball Hat"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Glass Blue"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "XD Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Bubbles"
+        }
+    ]
+}

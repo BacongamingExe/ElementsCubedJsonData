@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Boxers"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Short Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Red"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Puffballs"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Glass Orange"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Double S Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Ice"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Speed"
+        }
+    ]
+}

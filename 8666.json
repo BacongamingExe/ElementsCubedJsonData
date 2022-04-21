@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Bottomless Jeans"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Black"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Light Purple"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Dark Gray"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Forward Swipe Hair"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Glass Orange"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Cautious Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Space"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Mystery"
+        }
+    ]
+}

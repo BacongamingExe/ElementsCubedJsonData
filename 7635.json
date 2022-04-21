@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Jeans"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Light Orange"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Dark Red"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Closed Happy Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Ice"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Bubbles"
+        }
+    ]
+}

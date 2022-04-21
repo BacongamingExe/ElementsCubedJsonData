@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Shorts"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Light Tan"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Split Color Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Red"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "No Hat"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Red"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Closed Happy Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Space"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Ice"
+        }
+    ]
+}

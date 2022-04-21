@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Boxers"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Split Color Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Bucket Hat"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Glass Blue"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Double S Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Air"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Ribbon"
+        }
+    ]
+}

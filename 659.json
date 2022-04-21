@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Jeans"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "White"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Split Color Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Backwards Baseball Hat"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Red"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Square Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Ice"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Regeneration"
+        }
+    ]
+}

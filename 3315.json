@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Shorts"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Black"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Light Pink"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "No Hat"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Green"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Skin Tone 6"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Out Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Smoke"
+        }
+    ]
+}

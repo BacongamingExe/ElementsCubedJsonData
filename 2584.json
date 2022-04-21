@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Boxers"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Sleeveless Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Black"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Dark Yellow"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Hat With No Brim"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Black"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "XD Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Spikes"
+        }
+    ]
+}

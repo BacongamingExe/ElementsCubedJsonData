@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Boxers"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Black"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Short Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Bucket Hat"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Skin Tone 5"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Out Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Ammo"
+        }
+    ]
+}

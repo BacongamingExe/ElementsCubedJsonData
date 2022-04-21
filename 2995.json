@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Bottomless Jeans"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Light Tan"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Sleeveless Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "No Hat"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Dark Orange"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Skin Tone 3"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Confused Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Nature"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Smoke"
+        }
+    ]
+}

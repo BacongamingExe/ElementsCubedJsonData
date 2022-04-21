@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Shorts"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Light Orange"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Short Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Dark Red"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Light Yellow"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Aviator Hat"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Light Pink"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Glass Green"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Cautious Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Spikes"
+        }
+    ]
+}

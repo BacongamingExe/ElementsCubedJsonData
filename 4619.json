@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Shorts"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Red"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Light Yellow"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Top Hat"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Skin Tone 4"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Triangle Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Shield"
+        }
+    ]
+}

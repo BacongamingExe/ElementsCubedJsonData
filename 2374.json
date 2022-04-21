@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Shorts"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Short Sleeve Split Color Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Light Red"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Bucket Hat"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Happy Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Nature"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Lightning"
+        }
+    ]
+}

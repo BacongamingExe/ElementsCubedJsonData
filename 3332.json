@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Jeans"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Red"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "White"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Sleeveless Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Forward Swipe Hair"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Double S Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Acid"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Ribbon"
+        }
+    ]
+}

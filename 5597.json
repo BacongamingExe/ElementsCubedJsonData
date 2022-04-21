@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Jeans"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Sleeveless Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Light Yellow"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Backwards Baseball Hat"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Light Pink"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Cautious Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Space"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Heart"
+        }
+    ]
+}

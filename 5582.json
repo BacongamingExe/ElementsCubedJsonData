@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Boxers"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Full Sleeve Split Color Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Black"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Green"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Headband"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Dark Yellow"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Circle Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Space"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Green Cross"
+        }
+    ]
+}

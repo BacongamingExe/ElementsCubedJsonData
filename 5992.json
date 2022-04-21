@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Boxers"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Sleeveless Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Light Red"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Ponytail"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Red"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Circle Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Air"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Shield"
+        }
+    ]
+}

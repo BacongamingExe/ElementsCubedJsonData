@@ -1,0 +1,52 @@
+{
+    "attributes": [
+        {
+            "trait_type": "PANTS TYPE",
+            "value": "Split Color Boxers"
+        },
+        {
+            "trait_type": "PANTS COLOR",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "SECONDARY PANTS COLOR",
+            "value": "Light Orange"
+        },
+        {
+            "trait_type": "SHIRT TYPE",
+            "value": "Sleeveless Jacket"
+        },
+        {
+            "trait_type": "SHIRT COLOR",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "SECONDARY SHIRT COLOR",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "HAT TYPE",
+            "value": "Forward Swipe Hair"
+        },
+        {
+            "trait_type": "HAT COLOR",
+            "value": "Light Pink"
+        },
+        {
+            "trait_type": "SKIN COLOR",
+            "value": "Skin Tone 4"
+        },
+        {
+            "trait_type": "EYE TYPE",
+            "value": "Confused Eyes"
+        },
+        {
+            "trait_type": "ELEMENT TYPE",
+            "value": "Nature"
+        },
+        {
+            "trait_type": "HEAD EFFECT",
+            "value": "Green Cross"
+        }
+    ]
+}
