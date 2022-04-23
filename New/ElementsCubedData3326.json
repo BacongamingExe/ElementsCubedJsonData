@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "Dark Gray",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Dark Yellow",
+            "skin_color": "Glass Pink",
+            "eye_type": "XD Eyes",
+            "element_type": "Earth",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

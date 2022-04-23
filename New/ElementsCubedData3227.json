@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Light Blue",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Dark Orange",
+            "hat_type": "Normal Hair",
+            "hat_color": "Blue",
+            "skin_color": "Blue",
+            "eye_type": "Circle Eyes",
+            "element_type": "Ice",
+            "head_effect": "Mystery"
+        }
+    ]
+}

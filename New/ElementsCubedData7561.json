@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Tan",
+            "secondary_shirt_color": "Light Blue",
+            "hat_type": "Ponytail",
+            "hat_color": "Dark Gray",
+            "skin_color": "Skin Tone 4",
+            "eye_type": "Out Eyes",
+            "element_type": "Metal",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

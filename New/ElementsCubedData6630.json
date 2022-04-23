@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Black",
+            "secondary_shirt_color": "Red",
+            "hat_type": "Puffballs",
+            "hat_color": "Tan",
+            "skin_color": "Glass Blue",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Air",
+            "head_effect": "Ice"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Light Purple",
+            "secondary_shirt_color": "White",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Dark Green",
+            "skin_color": "Pink",
+            "eye_type": "XD Eyes",
+            "element_type": "Metal",
+            "head_effect": "Smoke"
+        }
+    ]
+}

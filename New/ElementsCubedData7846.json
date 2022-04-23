@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Orange",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Orange",
+            "skin_color": "Glass Blue",
+            "eye_type": "Plus Eyes",
+            "element_type": "Air",
+            "head_effect": "Mystery"
+        }
+    ]
+}

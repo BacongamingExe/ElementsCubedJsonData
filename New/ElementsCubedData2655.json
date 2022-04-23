@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Light Blue",
+            "secondary_shirt_color": "Dark Gray",
+            "hat_type": "Mohawk",
+            "hat_color": "Light Green",
+            "skin_color": "Green",
+            "eye_type": "Out Eyes",
+            "element_type": "Fire",
+            "head_effect": "Aura"
+        }
+    ]
+}

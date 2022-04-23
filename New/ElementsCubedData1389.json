@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Red",
+            "secondary_shirt_color": "Yellow",
+            "hat_type": "Top Hat",
+            "hat_color": "Dark Pink",
+            "skin_color": "Glass Yellow",
+            "eye_type": "Worn Eyes",
+            "element_type": "Nature",
+            "head_effect": "Lightning"
+        }
+    ]
+}

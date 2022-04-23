@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Gray",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Tan",
+            "secondary_shirt_color": "Light Blue",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "Light Green",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Confused Eyes",
+            "element_type": "Ice",
+            "head_effect": "Speed"
+        }
+    ]
+}

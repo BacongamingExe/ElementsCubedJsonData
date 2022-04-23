@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Brown",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Mohawk",
+            "hat_color": "Pink",
+            "skin_color": "Skin Tone 4",
+            "eye_type": "Confused Eyes",
+            "element_type": "Metal",
+            "head_effect": "Spikes"
+        }
+    ]
+}

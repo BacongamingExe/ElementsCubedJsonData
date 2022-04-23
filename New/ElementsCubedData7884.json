@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Black",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Gray",
+            "secondary_shirt_color": "Light Blue",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Light Blue",
+            "skin_color": "Glass Orange",
+            "eye_type": "Square Eyes",
+            "element_type": "Space",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

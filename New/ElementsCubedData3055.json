@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Boxers",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Dark Orange",
+            "secondary_shirt_color": "Brown",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "Black",
+            "skin_color": "Pink",
+            "eye_type": "XD Eyes",
+            "element_type": "Metal",
+            "head_effect": "Lightning"
+        }
+    ]
+}

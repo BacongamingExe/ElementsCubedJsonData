@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Blue",
+            "secondary_shirt_color": "Yellow",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Dark Yellow",
+            "skin_color": "Cyan",
+            "eye_type": "Happy Eyes",
+            "element_type": "Metal",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

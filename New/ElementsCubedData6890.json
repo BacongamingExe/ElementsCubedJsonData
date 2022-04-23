@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Black",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Black",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Pink",
+            "skin_color": "Cyan",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Electric",
+            "head_effect": "Lightning"
+        }
+    ]
+}

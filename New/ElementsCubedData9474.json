@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Black",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Dark Orange",
+            "skin_color": "Glass Blue",
+            "eye_type": "Circle Eyes",
+            "element_type": "Ice",
+            "head_effect": "Ammo"
+        }
+    ]
+}

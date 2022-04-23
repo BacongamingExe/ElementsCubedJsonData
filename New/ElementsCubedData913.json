@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Gray",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Red",
+            "secondary_shirt_color": "Black",
+            "hat_type": "Afro",
+            "hat_color": "Pink",
+            "skin_color": "Red",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Nature",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

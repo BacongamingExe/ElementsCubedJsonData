@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Black",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Red",
+            "secondary_shirt_color": "Dark Yellow",
+            "hat_type": "Beret",
+            "hat_color": "Dark Purple",
+            "skin_color": "Glass Purple",
+            "eye_type": "Plus Eyes",
+            "element_type": "Space",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

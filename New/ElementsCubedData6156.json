@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Light Tan",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Black",
+            "secondary_shirt_color": "Tan",
+            "hat_type": "Mohawk",
+            "hat_color": "Dark Gray",
+            "skin_color": "Blue",
+            "eye_type": "Worn Eyes",
+            "element_type": "Ice",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Black",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Green",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Beret",
+            "hat_color": "Dark Green",
+            "skin_color": "Glass Purple",
+            "eye_type": "Closed Eyes",
+            "element_type": "Electric",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Gray",
+            "secondary_shirt_color": "Dark Blue",
+            "hat_type": "Afro",
+            "hat_color": "Dark Orange",
+            "skin_color": "Glass",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Acid",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Black",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "White",
+            "secondary_shirt_color": "Black",
+            "hat_type": "Beret",
+            "hat_color": "Dark Pink",
+            "skin_color": "Purple",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Ice",
+            "head_effect": "Smoke"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Light Tan",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Brown",
+            "secondary_shirt_color": "Tan",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Dark Yellow",
+            "skin_color": "Glass Purple",
+            "eye_type": "Worn Eyes",
+            "element_type": "Ice",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

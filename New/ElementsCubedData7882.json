@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "White",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Dark Red",
+            "secondary_shirt_color": "Dark Pink",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Brown",
+            "skin_color": "Skin Tone 6",
+            "eye_type": "Circle Eyes",
+            "element_type": "Fire",
+            "head_effect": "Ammo"
+        }
+    ]
+}

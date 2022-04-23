@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "White",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Light Red",
+            "secondary_shirt_color": "Pink",
+            "hat_type": "Ponytail",
+            "hat_color": "Purple",
+            "skin_color": "Skin Tone 4",
+            "eye_type": "XD Eyes",
+            "element_type": "Earth",
+            "head_effect": "Spikes"
+        }
+    ]
+}

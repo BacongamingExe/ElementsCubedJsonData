@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Black",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Green",
+            "secondary_shirt_color": "Green",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Dark Pink",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "Circle Eyes",
+            "element_type": "Nature",
+            "head_effect": "Shield"
+        }
+    ]
+}

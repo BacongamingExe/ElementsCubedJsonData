@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Dark Purple",
+            "secondary_shirt_color": "Light Purple",
+            "hat_type": "Normal Hair",
+            "hat_color": "Dark Red",
+            "skin_color": "Orange",
+            "eye_type": "Square Eyes",
+            "element_type": "Electric",
+            "head_effect": "Smoke"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Purple",
+            "secondary_shirt_color": "Dark Blue",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Blue",
+            "skin_color": "Skin Tone 5",
+            "eye_type": "Standard Eyes",
+            "element_type": "Nature",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

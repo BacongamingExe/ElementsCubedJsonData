@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Green",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Light Yellow",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Light Yellow",
+            "skin_color": "Red",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Earth",
+            "head_effect": "Lightning"
+        }
+    ]
+}

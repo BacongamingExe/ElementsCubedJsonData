@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Green",
+            "secondary_shirt_color": "Light Pink",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Dark Orange",
+            "skin_color": "Glass Orange",
+            "eye_type": "Worn Eyes",
+            "element_type": "Electric",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Tan",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Afro",
+            "hat_color": "Dark Yellow",
+            "skin_color": "Pink",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Metal",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

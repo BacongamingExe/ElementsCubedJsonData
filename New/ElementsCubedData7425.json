@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Light Tan",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Light Blue",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "Puffballs",
+            "hat_color": "Dark Blue",
+            "skin_color": "Red",
+            "eye_type": "Plus Eyes",
+            "element_type": "Earth",
+            "head_effect": "Heart"
+        }
+    ]
+}

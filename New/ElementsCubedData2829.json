@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Black",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Yellow",
+            "secondary_shirt_color": "Gray",
+            "hat_type": "Puffballs",
+            "hat_color": "Pink",
+            "skin_color": "Skin Tone 2",
+            "eye_type": "Standard Eyes",
+            "element_type": "Acid",
+            "head_effect": "Mystery"
+        }
+    ]
+}

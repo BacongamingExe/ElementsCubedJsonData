@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Black",
+            "secondary_pants_color": "White",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Red",
+            "secondary_shirt_color": "Pink",
+            "hat_type": "Top Hat",
+            "hat_color": "Light Yellow",
+            "skin_color": "Green",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Earth",
+            "head_effect": "Smoke"
+        }
+    ]
+}

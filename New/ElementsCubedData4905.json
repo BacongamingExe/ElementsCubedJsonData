@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Brown",
+            "secondary_shirt_color": "Light Blue",
+            "hat_type": "Mohawk",
+            "hat_color": "Red",
+            "skin_color": "Glass Cyan",
+            "eye_type": "Double S Eyes",
+            "element_type": "Earth",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

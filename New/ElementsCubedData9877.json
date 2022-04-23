@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Black",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Gray",
+            "secondary_shirt_color": "Dark Yellow",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Pink",
+            "skin_color": "Glass",
+            "eye_type": "Circle Eyes",
+            "element_type": "Earth",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

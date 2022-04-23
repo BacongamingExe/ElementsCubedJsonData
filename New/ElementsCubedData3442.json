@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Brown",
+            "secondary_shirt_color": "Red",
+            "hat_type": "Normal Hair",
+            "hat_color": "Blue",
+            "skin_color": "Yellow",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Air",
+            "head_effect": "Ammo"
+        }
+    ]
+}

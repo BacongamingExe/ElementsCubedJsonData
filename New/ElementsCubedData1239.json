@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Purple",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Mohawk",
+            "hat_color": "Light Green",
+            "skin_color": "Green",
+            "eye_type": "Standard Eyes",
+            "element_type": "Space",
+            "head_effect": "Heart"
+        }
+    ]
+}

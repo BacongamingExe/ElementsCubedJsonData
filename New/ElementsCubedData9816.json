@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "White",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Light Yellow",
+            "secondary_shirt_color": "White",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "Light Green",
+            "skin_color": "Glass Orange",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Earth",
+            "head_effect": "Ice"
+        }
+    ]
+}

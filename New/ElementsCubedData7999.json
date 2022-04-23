@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Orange",
+            "secondary_shirt_color": "White",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Dark Yellow",
+            "skin_color": "Glass Orange",
+            "eye_type": "Standard Eyes",
+            "element_type": "Air",
+            "head_effect": "Mystery"
+        }
+    ]
+}

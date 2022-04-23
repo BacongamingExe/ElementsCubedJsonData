@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Green",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Red",
+            "secondary_shirt_color": "Dark Pink",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Purple",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Happy Eyes",
+            "element_type": "Metal",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

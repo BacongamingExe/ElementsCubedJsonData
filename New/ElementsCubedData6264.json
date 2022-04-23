@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Light Blue",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "Dark Orange",
+            "hat_type": "Mohawk",
+            "hat_color": "Dark Gray",
+            "skin_color": "Glass",
+            "eye_type": "Closed Eyes",
+            "element_type": "Space",
+            "head_effect": "Mystery"
+        }
+    ]
+}

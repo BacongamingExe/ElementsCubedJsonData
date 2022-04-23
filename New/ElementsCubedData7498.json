@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Green",
+            "secondary_shirt_color": "Blue",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Red",
+            "skin_color": "Blue",
+            "eye_type": "Circle Eyes",
+            "element_type": "Acid",
+            "head_effect": "Ammo"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Ponytail",
+            "hat_color": "Green",
+            "skin_color": "Skin Tone 5",
+            "eye_type": "Standard Eyes",
+            "element_type": "Fire",
+            "head_effect": "Speed"
+        }
+    ]
+}

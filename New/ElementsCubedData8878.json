@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Blue",
+            "secondary_shirt_color": "White",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Light Yellow",
+            "skin_color": "Pink",
+            "eye_type": "Standard Eyes",
+            "element_type": "Electric",
+            "head_effect": "Heart"
+        }
+    ]
+}

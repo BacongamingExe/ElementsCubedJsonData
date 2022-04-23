@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Light Purple",
+            "secondary_shirt_color": "Light Blue",
+            "hat_type": "Mohawk",
+            "hat_color": "Pink",
+            "skin_color": "Purple",
+            "eye_type": "Standard Eyes",
+            "element_type": "Air",
+            "head_effect": "Speed"
+        }
+    ]
+}

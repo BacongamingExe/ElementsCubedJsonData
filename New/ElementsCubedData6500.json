@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Red",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Pink",
+            "secondary_shirt_color": "Dark Blue",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Black",
+            "skin_color": "Skin Tone 4",
+            "eye_type": "Closed Eyes",
+            "element_type": "Earth",
+            "head_effect": "Aura"
+        }
+    ]
+}

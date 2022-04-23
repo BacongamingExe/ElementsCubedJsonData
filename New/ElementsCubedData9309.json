@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Pink",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Dark Yellow",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "Standard Eyes",
+            "element_type": "Fire",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

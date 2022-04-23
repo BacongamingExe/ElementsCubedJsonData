@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Red",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Green",
+            "secondary_shirt_color": "Gray",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Gray",
+            "skin_color": "Yellow",
+            "eye_type": "Circle Eyes",
+            "element_type": "Earth",
+            "head_effect": "Speed"
+        }
+    ]
+}

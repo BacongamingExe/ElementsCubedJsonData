@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Light Tan",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Light Purple",
+            "secondary_shirt_color": "Orange",
+            "hat_type": "No Hat",
+            "hat_color": "Light Yellow",
+            "skin_color": "Yellow",
+            "eye_type": "Out Eyes",
+            "element_type": "Air",
+            "head_effect": "Aura"
+        }
+    ]
+}

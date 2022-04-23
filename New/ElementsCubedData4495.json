@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Black",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Light Pink",
+            "secondary_shirt_color": "Dark Orange",
+            "hat_type": "Baseball Hat",
+            "hat_color": "White",
+            "skin_color": "Pink",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Nature",
+            "head_effect": "Mystery"
+        }
+    ]
+}

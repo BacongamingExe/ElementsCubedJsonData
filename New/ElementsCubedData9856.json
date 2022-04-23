@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Green",
+            "secondary_pants_color": "White",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Orange",
+            "secondary_shirt_color": "Light Red",
+            "hat_type": "Top Hat",
+            "hat_color": "Green",
+            "skin_color": "Red",
+            "eye_type": "Confused Eyes",
+            "element_type": "Metal",
+            "head_effect": "Heart"
+        }
+    ]
+}

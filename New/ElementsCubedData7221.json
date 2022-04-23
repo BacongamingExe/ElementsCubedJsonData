@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Light Yellow",
+            "secondary_shirt_color": "Green",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Dark Blue",
+            "skin_color": "Yellow",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Nature",
+            "head_effect": "Spikes"
+        }
+    ]
+}

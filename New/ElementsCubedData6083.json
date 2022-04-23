@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Pink",
+            "secondary_shirt_color": "Orange",
+            "hat_type": "Afro",
+            "hat_color": "Light Red",
+            "skin_color": "Glass Green",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Acid",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

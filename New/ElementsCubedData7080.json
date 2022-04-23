@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Orange",
+            "secondary_shirt_color": "Dark Gray",
+            "hat_type": "Afro",
+            "hat_color": "Blue",
+            "skin_color": "Pink",
+            "eye_type": "Closed Eyes",
+            "element_type": "Nature",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Light Blue",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Blue",
+            "secondary_shirt_color": "Light Yellow",
+            "hat_type": "No Hat",
+            "hat_color": "Light Pink",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Metal",
+            "head_effect": "Spikes"
+        }
+    ]
+}

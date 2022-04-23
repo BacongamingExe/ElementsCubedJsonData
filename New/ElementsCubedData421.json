@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Light Pink",
+            "secondary_shirt_color": "Tan",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Yellow",
+            "skin_color": "Blue",
+            "eye_type": "Circle Eyes",
+            "element_type": "Metal",
+            "head_effect": "Speed"
+        }
+    ]
+}

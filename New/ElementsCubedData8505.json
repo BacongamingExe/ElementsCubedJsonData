@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Light Yellow",
+            "secondary_shirt_color": "Dark Blue",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Light Pink",
+            "skin_color": "Glass Pink",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Space",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

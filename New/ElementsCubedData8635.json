@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Black",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "Green",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Light Yellow",
+            "skin_color": "Glass Orange",
+            "eye_type": "Worn Eyes",
+            "element_type": "Acid",
+            "head_effect": "Ammo"
+        }
+    ]
+}

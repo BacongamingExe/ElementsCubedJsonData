@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Dark Green",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Tan",
+            "secondary_shirt_color": "Dark Gray",
+            "hat_type": "Mohawk",
+            "hat_color": "Red",
+            "skin_color": "Yellow",
+            "eye_type": "Double S Eyes",
+            "element_type": "Metal",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

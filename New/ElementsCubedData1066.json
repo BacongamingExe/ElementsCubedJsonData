@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Red",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Light Purple",
+            "skin_color": "Glass Orange",
+            "eye_type": "Happy Eyes",
+            "element_type": "Fire",
+            "head_effect": "Ammo"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Green",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Light Red",
+            "secondary_shirt_color": "Dark Blue",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Dark Red",
+            "skin_color": "Pink",
+            "eye_type": "XD Eyes",
+            "element_type": "Metal",
+            "head_effect": "Heart"
+        }
+    ]
+}

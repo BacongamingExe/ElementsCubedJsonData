@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Orange",
+            "hat_type": "Normal Hair",
+            "hat_color": "Light Red",
+            "skin_color": "Yellow",
+            "eye_type": "Plus Eyes",
+            "element_type": "Space",
+            "head_effect": "Speed"
+        }
+    ]
+}

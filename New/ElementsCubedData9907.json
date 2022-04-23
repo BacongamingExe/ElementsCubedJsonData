@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Cyan",
+            "secondary_shirt_color": "Black",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Brown",
+            "skin_color": "Purple",
+            "eye_type": "Square Eyes",
+            "element_type": "Ice",
+            "head_effect": "Heart"
+        }
+    ]
+}

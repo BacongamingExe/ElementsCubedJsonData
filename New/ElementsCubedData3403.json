@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "White",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Pink",
+            "secondary_shirt_color": "Red",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Red",
+            "skin_color": "Pink",
+            "eye_type": "Closed Eyes",
+            "element_type": "Earth",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

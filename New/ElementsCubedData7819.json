@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Red",
+            "secondary_shirt_color": "Light Purple",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Red",
+            "skin_color": "Yellow",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Air",
+            "head_effect": "Mystery"
+        }
+    ]
+}

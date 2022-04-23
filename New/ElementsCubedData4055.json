@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Red",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Green",
+            "secondary_shirt_color": "Light Purple",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Light Green",
+            "skin_color": "Glass Red",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Ice",
+            "head_effect": "Mystery"
+        }
+    ]
+}

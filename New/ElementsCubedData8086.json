@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Dark Green",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Gray",
+            "secondary_shirt_color": "Orange",
+            "hat_type": "Aviator Hat",
+            "hat_color": "White",
+            "skin_color": "Glass Green",
+            "eye_type": "Out Eyes",
+            "element_type": "Acid",
+            "head_effect": "Aura"
+        }
+    ]
+}

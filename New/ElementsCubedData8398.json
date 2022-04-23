@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Green",
+            "secondary_shirt_color": "Blue",
+            "hat_type": "Puffballs",
+            "hat_color": "Light Red",
+            "skin_color": "Glass Cyan",
+            "eye_type": "Square Eyes",
+            "element_type": "Ice",
+            "head_effect": "Aura"
+        }
+    ]
+}

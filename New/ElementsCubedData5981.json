@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "White",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Orange",
+            "secondary_shirt_color": "Light Blue",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "Yellow",
+            "skin_color": "Skin Tone 4",
+            "eye_type": "Standard Eyes",
+            "element_type": "Nature",
+            "head_effect": "Mystery"
+        }
+    ]
+}

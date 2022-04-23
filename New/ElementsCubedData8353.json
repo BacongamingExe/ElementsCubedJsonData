@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Light Pink",
+            "secondary_shirt_color": "Brown",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Dark Red",
+            "skin_color": "Glass Yellow",
+            "eye_type": "Out Eyes",
+            "element_type": "Nature",
+            "head_effect": "Smoke"
+        }
+    ]
+}

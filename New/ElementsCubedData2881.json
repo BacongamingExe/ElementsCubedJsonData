@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Green",
+            "secondary_shirt_color": "White",
+            "hat_type": "Headband",
+            "hat_color": "Orange",
+            "skin_color": "Yellow",
+            "eye_type": "Out Eyes",
+            "element_type": "Nature",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

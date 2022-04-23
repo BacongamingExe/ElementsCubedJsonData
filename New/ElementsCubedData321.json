@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Gray",
+            "secondary_shirt_color": "Tan",
+            "hat_type": "Puffballs",
+            "hat_color": "Light Pink",
+            "skin_color": "Glass Green",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Fire",
+            "head_effect": "Heart"
+        }
+    ]
+}

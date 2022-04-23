@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Gray",
+            "secondary_shirt_color": "Dark Yellow",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Dark Blue",
+            "skin_color": "Glass",
+            "eye_type": "Confused Eyes",
+            "element_type": "Air",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

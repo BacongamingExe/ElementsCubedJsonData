@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Light Blue",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "White",
+            "secondary_shirt_color": "Dark Purple",
+            "hat_type": "Top Hat",
+            "hat_color": "Purple",
+            "skin_color": "Skin Tone 4",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Earth",
+            "head_effect": "Speed"
+        }
+    ]
+}

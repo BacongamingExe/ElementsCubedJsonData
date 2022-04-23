@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Light Blue",
+            "secondary_shirt_color": "Black",
+            "hat_type": "No Hat",
+            "hat_color": "Green",
+            "skin_color": "Red",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Space",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

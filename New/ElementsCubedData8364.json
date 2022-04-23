@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Gray",
+            "secondary_shirt_color": "Light Purple",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Dark Blue",
+            "skin_color": "Orange",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Space",
+            "head_effect": "Speed"
+        }
+    ]
+}

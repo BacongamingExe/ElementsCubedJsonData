@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Brown",
+            "secondary_shirt_color": "Dark Blue",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "Red",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Worn Eyes",
+            "element_type": "Space",
+            "head_effect": "Heart"
+        }
+    ]
+}

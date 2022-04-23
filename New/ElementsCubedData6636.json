@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Purple",
+            "secondary_shirt_color": "Light Yellow",
+            "hat_type": "Puffballs",
+            "hat_color": "Brown",
+            "skin_color": "Skin Tone 6",
+            "eye_type": "Double S Eyes",
+            "element_type": "Earth",
+            "head_effect": "Smoke"
+        }
+    ]
+}

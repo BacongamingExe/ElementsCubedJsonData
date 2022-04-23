@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Boxers",
+            "pants_color": "Green",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Cyan",
+            "secondary_shirt_color": "Pink",
+            "hat_type": "Headband",
+            "hat_color": "Dark Blue",
+            "skin_color": "Glass",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Air",
+            "head_effect": "Mystery"
+        }
+    ]
+}

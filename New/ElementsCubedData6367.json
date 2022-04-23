@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Orange",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Mohawk",
+            "hat_color": "Light Purple",
+            "skin_color": "Glass Yellow",
+            "eye_type": "Out Eyes",
+            "element_type": "Space",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

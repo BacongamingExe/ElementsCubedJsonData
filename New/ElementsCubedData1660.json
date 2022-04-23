@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Green",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Light Purple",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Light Red",
+            "skin_color": "Glass Green",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Metal",
+            "head_effect": "Aura"
+        }
+    ]
+}

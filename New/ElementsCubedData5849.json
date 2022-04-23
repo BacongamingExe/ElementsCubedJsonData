@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Red",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Purple",
+            "secondary_shirt_color": "Dark Gray",
+            "hat_type": "Normal Hair",
+            "hat_color": "Light Blue",
+            "skin_color": "Purple",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Earth",
+            "head_effect": "Heart"
+        }
+    ]
+}

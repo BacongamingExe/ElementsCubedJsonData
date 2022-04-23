@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "White",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Blue",
+            "secondary_shirt_color": "Dark Blue",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Dark Blue",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "Confused Eyes",
+            "element_type": "Earth",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

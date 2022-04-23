@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Yellow",
+            "secondary_shirt_color": "White",
+            "hat_type": "Headband",
+            "hat_color": "Dark Purple",
+            "skin_color": "Glass Orange",
+            "eye_type": "Double S Eyes",
+            "element_type": "Space",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

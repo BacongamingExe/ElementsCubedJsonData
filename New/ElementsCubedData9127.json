@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Blue",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "Puffballs",
+            "hat_color": "White",
+            "skin_color": "Red",
+            "eye_type": "Double S Eyes",
+            "element_type": "Ice",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

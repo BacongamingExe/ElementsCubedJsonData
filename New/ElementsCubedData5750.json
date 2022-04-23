@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Boxers",
+            "pants_color": "Light Blue",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Gray",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Pink",
+            "skin_color": "Red",
+            "eye_type": "XD Eyes",
+            "element_type": "Electric",
+            "head_effect": "Shield"
+        }
+    ]
+}

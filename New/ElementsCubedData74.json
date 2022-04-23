@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Blue",
+            "secondary_shirt_color": "Brown",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "Brown",
+            "skin_color": "Skin Tone 4",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Ice",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

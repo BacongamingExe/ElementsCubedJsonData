@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Green",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Gray",
+            "secondary_shirt_color": "Light Green",
+            "hat_type": "Puffballs",
+            "hat_color": "Black",
+            "skin_color": "Green",
+            "eye_type": "Closed Eyes",
+            "element_type": "Acid",
+            "head_effect": "Ammo"
+        }
+    ]
+}

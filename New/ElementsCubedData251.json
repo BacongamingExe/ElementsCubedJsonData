@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Pink",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "No Hat",
+            "hat_color": "Dark Blue",
+            "skin_color": "Blue",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Ice",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

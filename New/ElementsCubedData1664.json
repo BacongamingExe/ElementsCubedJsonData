@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "White",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Dark Gray",
+            "secondary_shirt_color": "Red",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Dark Red",
+            "skin_color": "Red",
+            "eye_type": "Square Eyes",
+            "element_type": "Ice",
+            "head_effect": "Aura"
+        }
+    ]
+}

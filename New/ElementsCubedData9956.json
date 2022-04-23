@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Blue",
+            "secondary_shirt_color": "Light Green",
+            "hat_type": "Puffballs",
+            "hat_color": "Dark Blue",
+            "skin_color": "Glass Orange",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Ice",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

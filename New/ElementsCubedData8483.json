@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Red",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Orange",
+            "secondary_shirt_color": "White",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Pink",
+            "skin_color": "Pink",
+            "eye_type": "Double S Eyes",
+            "element_type": "Ice",
+            "head_effect": "Ice"
+        }
+    ]
+}

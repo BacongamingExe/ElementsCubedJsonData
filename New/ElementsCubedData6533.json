@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Pink",
+            "secondary_shirt_color": "Dark Yellow",
+            "hat_type": "Mohawk",
+            "hat_color": "Purple",
+            "skin_color": "Glass Red",
+            "eye_type": "Worn Eyes",
+            "element_type": "Earth",
+            "head_effect": "Ice"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Dark Purple",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Pink",
+            "skin_color": "Red",
+            "eye_type": "Confused Eyes",
+            "element_type": "Earth",
+            "head_effect": "Mystery"
+        }
+    ]
+}

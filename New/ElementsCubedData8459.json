@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "White",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Light Green",
+            "secondary_shirt_color": "Yellow",
+            "hat_type": "Headband",
+            "hat_color": "Light Blue",
+            "skin_color": "Cyan",
+            "eye_type": "XD Eyes",
+            "element_type": "Space",
+            "head_effect": "Shield"
+        }
+    ]
+}

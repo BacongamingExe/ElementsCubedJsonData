@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "White",
+            "secondary_shirt_color": "Blue",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Green",
+            "skin_color": "Skin Tone 2",
+            "eye_type": "Confused Eyes",
+            "element_type": "Nature",
+            "head_effect": "Shield"
+        }
+    ]
+}

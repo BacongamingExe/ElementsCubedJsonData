@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Boxers",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Orange",
+            "secondary_shirt_color": "Green",
+            "hat_type": "No Hat",
+            "hat_color": "Dark Blue",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Square Eyes",
+            "element_type": "Ice",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

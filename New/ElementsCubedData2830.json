@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Green",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Light Pink",
+            "secondary_shirt_color": "Dark Pink",
+            "hat_type": "Beret",
+            "hat_color": "Dark Pink",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "Double S Eyes",
+            "element_type": "Metal",
+            "head_effect": "Speed"
+        }
+    ]
+}

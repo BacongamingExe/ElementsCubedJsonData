@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Red",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "White",
+            "secondary_shirt_color": "Dark Yellow",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Light Blue",
+            "skin_color": "Blue",
+            "eye_type": "Confused Eyes",
+            "element_type": "Space",
+            "head_effect": "Lightning"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "White",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Light Blue",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Pink",
+            "skin_color": "Glass Orange",
+            "eye_type": "XD Eyes",
+            "element_type": "Air",
+            "head_effect": "Aura"
+        }
+    ]
+}

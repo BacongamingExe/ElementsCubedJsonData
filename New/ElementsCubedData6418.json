@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Orange",
+            "secondary_pants_color": "White",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Cyan",
+            "secondary_shirt_color": "Dark Gray",
+            "hat_type": "Top Hat",
+            "hat_color": "Cyan",
+            "skin_color": "Cyan",
+            "eye_type": "Worn Eyes",
+            "element_type": "Air",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

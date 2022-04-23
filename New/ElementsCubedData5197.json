@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Light Tan",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "White",
+            "secondary_shirt_color": "Light Pink",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Dark Red",
+            "skin_color": "Skin Tone 5",
+            "eye_type": "Standard Eyes",
+            "element_type": "Nature",
+            "head_effect": "Heart"
+        }
+    ]
+}

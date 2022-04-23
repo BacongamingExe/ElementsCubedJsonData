@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Green",
+            "secondary_pants_color": "Light Tan",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Brown",
+            "secondary_shirt_color": "Light Yellow",
+            "hat_type": "Puffballs",
+            "hat_color": "Light Pink",
+            "skin_color": "Pink",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Earth",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

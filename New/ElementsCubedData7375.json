@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Orange",
+            "secondary_shirt_color": "Black",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Gray",
+            "skin_color": "Glass Orange",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Air",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

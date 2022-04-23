@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Red",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Gray",
+            "secondary_shirt_color": "Green",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Dark Purple",
+            "skin_color": "Glass Red",
+            "eye_type": "Double S Eyes",
+            "element_type": "Acid",
+            "head_effect": "Mystery"
+        }
+    ]
+}

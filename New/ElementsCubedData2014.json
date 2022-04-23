@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Dark Pink",
+            "secondary_shirt_color": "Red",
+            "hat_type": "No Hat",
+            "hat_color": "Light Purple",
+            "skin_color": "Skin Tone 4",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Acid",
+            "head_effect": "Lightning"
+        }
+    ]
+}

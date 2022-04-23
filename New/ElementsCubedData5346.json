@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "White",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Gray",
+            "secondary_shirt_color": "Gray",
+            "hat_type": "Beret",
+            "hat_color": "Light Red",
+            "skin_color": "Glass Pink",
+            "eye_type": "Worn Eyes",
+            "element_type": "Nature",
+            "head_effect": "Spikes"
+        }
+    ]
+}

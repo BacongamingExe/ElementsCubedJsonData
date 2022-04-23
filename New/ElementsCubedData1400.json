@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Dark Green",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Pink",
+            "secondary_shirt_color": "Gray",
+            "hat_type": "Headband",
+            "hat_color": "Light Blue",
+            "skin_color": "Pink",
+            "eye_type": "Worn Eyes",
+            "element_type": "Earth",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

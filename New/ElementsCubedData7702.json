@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Brown",
+            "secondary_shirt_color": "Light Purple",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Purple",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Fire",
+            "head_effect": "Heart"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Pink",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Mohawk",
+            "hat_color": "Purple",
+            "skin_color": "Yellow",
+            "eye_type": "Closed Eyes",
+            "element_type": "Earth",
+            "head_effect": "Spikes"
+        }
+    ]
+}

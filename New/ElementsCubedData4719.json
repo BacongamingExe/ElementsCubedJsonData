@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Red",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Black",
+            "skin_color": "Glass",
+            "eye_type": "Closed Eyes",
+            "element_type": "Nature",
+            "head_effect": "Mystery"
+        }
+    ]
+}

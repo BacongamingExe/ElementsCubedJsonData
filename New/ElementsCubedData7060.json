@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Red",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Puffballs",
+            "hat_color": "White",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Air",
+            "head_effect": "Heart"
+        }
+    ]
+}

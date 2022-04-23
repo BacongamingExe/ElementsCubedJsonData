@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "Black",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Dark Yellow",
+            "skin_color": "Blue",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Space",
+            "head_effect": "Ammo"
+        }
+    ]
+}

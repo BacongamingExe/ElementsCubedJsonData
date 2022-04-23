@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Dark Orange",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Gray",
+            "skin_color": "Red",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Earth",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

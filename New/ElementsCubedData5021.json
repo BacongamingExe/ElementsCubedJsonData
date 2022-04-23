@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Green",
+            "secondary_shirt_color": "Light Yellow",
+            "hat_type": "Afro",
+            "hat_color": "Brown",
+            "skin_color": "Skin Tone 5",
+            "eye_type": "Square Eyes",
+            "element_type": "Earth",
+            "head_effect": "Heart"
+        }
+    ]
+}

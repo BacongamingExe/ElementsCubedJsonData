@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Light Blue",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Red",
+            "secondary_shirt_color": "Light Green",
+            "hat_type": "Ponytail",
+            "hat_color": "Yellow",
+            "skin_color": "Glass Orange",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Metal",
+            "head_effect": "Heart"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Blue",
+            "skin_color": "Skin Tone 5",
+            "eye_type": "Standard Eyes",
+            "element_type": "Ice",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

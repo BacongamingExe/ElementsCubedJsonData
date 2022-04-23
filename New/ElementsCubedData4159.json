@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Black",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "Gray",
+            "hat_type": "Normal Hair",
+            "hat_color": "Green",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Space",
+            "head_effect": "Shield"
+        }
+    ]
+}

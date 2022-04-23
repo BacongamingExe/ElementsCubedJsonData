@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "White",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Red",
+            "secondary_shirt_color": "Green",
+            "hat_type": "No Hat",
+            "hat_color": "Light Pink",
+            "skin_color": "Green",
+            "eye_type": "Plus Eyes",
+            "element_type": "Ice",
+            "head_effect": "Spikes"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "White",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Gray",
+            "skin_color": "Glass Red",
+            "eye_type": "Square Eyes",
+            "element_type": "Space",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

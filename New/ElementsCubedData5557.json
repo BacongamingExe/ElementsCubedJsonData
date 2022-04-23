@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Purple",
+            "secondary_pants_color": "White",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Cyan",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Yellow",
+            "skin_color": "Skin Tone 6",
+            "eye_type": "Circle Eyes",
+            "element_type": "Electric",
+            "head_effect": "Speed"
+        }
+    ]
+}

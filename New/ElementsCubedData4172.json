@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Orange",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Light Blue",
+            "skin_color": "Orange",
+            "eye_type": "Circle Eyes",
+            "element_type": "Nature",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

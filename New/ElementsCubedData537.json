@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Black",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Blue",
+            "secondary_shirt_color": "Pink",
+            "hat_type": "Afro",
+            "hat_color": "Black",
+            "skin_color": "Glass Yellow",
+            "eye_type": "Out Eyes",
+            "element_type": "Electric",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

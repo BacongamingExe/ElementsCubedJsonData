@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Gray",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "White",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Headband",
+            "hat_color": "Gray",
+            "skin_color": "Purple",
+            "eye_type": "Confused Eyes",
+            "element_type": "Fire",
+            "head_effect": "Speed"
+        }
+    ]
+}

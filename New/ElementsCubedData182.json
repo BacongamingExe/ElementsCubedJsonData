@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Light Blue",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Top Hat",
+            "hat_color": "Dark Orange",
+            "skin_color": "Purple",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Metal",
+            "head_effect": "Ice"
+        }
+    ]
+}

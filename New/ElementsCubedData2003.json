@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Pink",
+            "secondary_shirt_color": "Light Blue",
+            "hat_type": "Mohawk",
+            "hat_color": "Dark Gray",
+            "skin_color": "Glass Purple",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Electric",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

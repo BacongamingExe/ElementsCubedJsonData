@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Green",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Green",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Afro",
+            "hat_color": "Dark Orange",
+            "skin_color": "Skin Tone 5",
+            "eye_type": "Double S Eyes",
+            "element_type": "Nature",
+            "head_effect": "Aura"
+        }
+    ]
+}

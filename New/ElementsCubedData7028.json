@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Black",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Light Green",
+            "secondary_shirt_color": "Dark Gray",
+            "hat_type": "Ponytail",
+            "hat_color": "Dark Red",
+            "skin_color": "Skin Tone 2",
+            "eye_type": "Closed Eyes",
+            "element_type": "Fire",
+            "head_effect": "Shield"
+        }
+    ]
+}

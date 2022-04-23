@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Tan",
+            "hat_type": "Afro",
+            "hat_color": "Orange",
+            "skin_color": "Glass Yellow",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Metal",
+            "head_effect": "Speed"
+        }
+    ]
+}

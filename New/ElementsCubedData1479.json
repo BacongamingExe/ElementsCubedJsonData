@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Light Blue",
+            "secondary_pants_color": "White",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Brown",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Dark Red",
+            "skin_color": "Glass",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Fire",
+            "head_effect": "Lightning"
+        }
+    ]
+}

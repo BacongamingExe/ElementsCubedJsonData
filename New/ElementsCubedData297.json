@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Gray",
+            "secondary_shirt_color": "Dark Purple",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Brown",
+            "skin_color": "Skin Tone 6",
+            "eye_type": "Circle Eyes",
+            "element_type": "Fire",
+            "head_effect": "Speed"
+        }
+    ]
+}

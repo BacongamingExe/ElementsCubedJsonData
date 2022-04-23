@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Black",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Green",
+            "secondary_shirt_color": "Light Yellow",
+            "hat_type": "Afro",
+            "hat_color": "Light Green",
+            "skin_color": "Pink",
+            "eye_type": "Plus Eyes",
+            "element_type": "Electric",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

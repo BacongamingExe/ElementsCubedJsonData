@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Green",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "White",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Gray",
+            "skin_color": "Glass Cyan",
+            "eye_type": "Closed Eyes",
+            "element_type": "Fire",
+            "head_effect": "Heart"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "White",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Gray",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Light Green",
+            "skin_color": "Skin Tone 4",
+            "eye_type": "Square Eyes",
+            "element_type": "Acid",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

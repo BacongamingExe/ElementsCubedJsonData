@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Dark Blue",
+            "secondary_shirt_color": "Pink",
+            "hat_type": "Beret",
+            "hat_color": "Orange",
+            "skin_color": "Blue",
+            "eye_type": "Circle Eyes",
+            "element_type": "Acid",
+            "head_effect": "Mystery"
+        }
+    ]
+}

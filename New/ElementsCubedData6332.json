@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Orange",
+            "secondary_shirt_color": "Black",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "Tan",
+            "skin_color": "Skin Tone 5",
+            "eye_type": "Double S Eyes",
+            "element_type": "Electric",
+            "head_effect": "Smoke"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Gray",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Brown",
+            "secondary_shirt_color": "Light Red",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Dark Red",
+            "skin_color": "Glass Red",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Air",
+            "head_effect": "Lightning"
+        }
+    ]
+}

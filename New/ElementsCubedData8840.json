@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Gray",
+            "secondary_shirt_color": "Dark Orange",
+            "hat_type": "Top Hat",
+            "hat_color": "Dark Pink",
+            "skin_color": "Orange",
+            "eye_type": "Square Eyes",
+            "element_type": "Acid",
+            "head_effect": "Ice"
+        }
+    ]
+}

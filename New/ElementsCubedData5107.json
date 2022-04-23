@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Boxers",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "White",
+            "secondary_shirt_color": "Light Red",
+            "hat_type": "No Hat",
+            "hat_color": "Dark Green",
+            "skin_color": "Skin Tone 6",
+            "eye_type": "Plus Eyes",
+            "element_type": "Metal",
+            "head_effect": "Ice"
+        }
+    ]
+}

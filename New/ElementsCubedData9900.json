@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Black",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Dark Purple",
+            "secondary_shirt_color": "Red",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Blue",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Ice",
+            "head_effect": "Ice"
+        }
+    ]
+}

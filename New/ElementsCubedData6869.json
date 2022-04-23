@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Green",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Black",
+            "secondary_shirt_color": "Dark Gray",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Brown",
+            "skin_color": "Glass Yellow",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Electric",
+            "head_effect": "Shield"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Green",
+            "secondary_shirt_color": "Light Yellow",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Red",
+            "skin_color": "Pink",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Electric",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

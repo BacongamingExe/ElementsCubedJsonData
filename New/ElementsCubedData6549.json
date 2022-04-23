@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Gray",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Light Purple",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Purple",
+            "skin_color": "Blue",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Earth",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

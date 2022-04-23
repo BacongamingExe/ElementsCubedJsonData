@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Green",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Blue",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Light Pink",
+            "skin_color": "Pink",
+            "eye_type": "Standard Eyes",
+            "element_type": "Electric",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

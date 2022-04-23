@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Light Tan",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Pink",
+            "secondary_shirt_color": "Light Purple",
+            "hat_type": "Headband",
+            "hat_color": "Light Pink",
+            "skin_color": "Glass Orange",
+            "eye_type": "Confused Eyes",
+            "element_type": "Ice",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

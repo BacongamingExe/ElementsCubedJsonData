@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Red",
+            "secondary_shirt_color": "Orange",
+            "hat_type": "Normal Hair",
+            "hat_color": "Gray",
+            "skin_color": "Glass Orange",
+            "eye_type": "Confused Eyes",
+            "element_type": "Earth",
+            "head_effect": "Mystery"
+        }
+    ]
+}

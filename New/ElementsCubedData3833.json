@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Red",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "White",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Beret",
+            "hat_color": "Tan",
+            "skin_color": "Glass Pink",
+            "eye_type": "Out Eyes",
+            "element_type": "Space",
+            "head_effect": "Speed"
+        }
+    ]
+}

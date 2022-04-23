@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Tan",
+            "secondary_pants_color": "White",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Brown",
+            "secondary_shirt_color": "Yellow",
+            "hat_type": "Afro",
+            "hat_color": "Dark Pink",
+            "skin_color": "Glass Yellow",
+            "eye_type": "XD Eyes",
+            "element_type": "Fire",
+            "head_effect": "Shield"
+        }
+    ]
+}

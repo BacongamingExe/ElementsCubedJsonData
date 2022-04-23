@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Red",
+            "secondary_shirt_color": "Blue",
+            "hat_type": "Headband",
+            "hat_color": "Dark Purple",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Worn Eyes",
+            "element_type": "Earth",
+            "head_effect": "Spikes"
+        }
+    ]
+}

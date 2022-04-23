@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Green",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Tan",
+            "secondary_shirt_color": "Green",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Light Green",
+            "skin_color": "Pink",
+            "eye_type": "Out Eyes",
+            "element_type": "Air",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

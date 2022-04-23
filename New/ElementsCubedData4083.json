@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "White",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "White",
+            "secondary_shirt_color": "Light Green",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Black",
+            "skin_color": "Glass Pink",
+            "eye_type": "Circle Eyes",
+            "element_type": "Electric",
+            "head_effect": "Aura"
+        }
+    ]
+}

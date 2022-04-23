@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Gray",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Light Yellow",
+            "secondary_shirt_color": "Dark Pink",
+            "hat_type": "Mohawk",
+            "hat_color": "Cyan",
+            "skin_color": "Glass Purple",
+            "eye_type": "Confused Eyes",
+            "element_type": "Acid",
+            "head_effect": "Speed"
+        }
+    ]
+}

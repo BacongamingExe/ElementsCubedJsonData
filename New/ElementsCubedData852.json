@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Light Blue",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Dark Blue",
+            "secondary_shirt_color": "Green",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Dark Blue",
+            "skin_color": "Glass Red",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Space",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

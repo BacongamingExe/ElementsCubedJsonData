@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "White",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Blue",
+            "secondary_shirt_color": "Red",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Brown",
+            "skin_color": "Glass Yellow",
+            "eye_type": "Out Eyes",
+            "element_type": "Nature",
+            "head_effect": "Shield"
+        }
+    ]
+}

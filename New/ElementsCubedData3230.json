@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Dark Green",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Dark Pink",
+            "secondary_shirt_color": "Blue",
+            "hat_type": "Puffballs",
+            "hat_color": "White",
+            "skin_color": "Orange",
+            "eye_type": "Confused Eyes",
+            "element_type": "Air",
+            "head_effect": "Spikes"
+        }
+    ]
+}

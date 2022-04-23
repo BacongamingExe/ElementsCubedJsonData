@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Red",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Pink",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Afro",
+            "hat_color": "Light Purple",
+            "skin_color": "Green",
+            "eye_type": "Confused Eyes",
+            "element_type": "Earth",
+            "head_effect": "Spikes"
+        }
+    ]
+}

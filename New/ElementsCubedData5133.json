@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Green",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Yellow",
+            "skin_color": "Glass Red",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Metal",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

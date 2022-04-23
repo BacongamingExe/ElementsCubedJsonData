@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Light Blue",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Tan",
+            "secondary_shirt_color": "Green",
+            "hat_type": "Headband",
+            "hat_color": "Tan",
+            "skin_color": "Purple",
+            "eye_type": "XD Eyes",
+            "element_type": "Electric",
+            "head_effect": "Speed"
+        }
+    ]
+}

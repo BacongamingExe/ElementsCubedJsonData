@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Light Blue",
+            "secondary_shirt_color": "Black",
+            "hat_type": "Headband",
+            "hat_color": "Brown",
+            "skin_color": "Skin Tone 5",
+            "eye_type": "XD Eyes",
+            "element_type": "Air",
+            "head_effect": "Heart"
+        }
+    ]
+}

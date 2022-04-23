@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Gray",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Blue",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "Normal Hair",
+            "hat_color": "Light Pink",
+            "skin_color": "Skin Tone 4",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Electric",
+            "head_effect": "Speed"
+        }
+    ]
+}

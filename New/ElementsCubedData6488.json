@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Green",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Pink",
+            "secondary_shirt_color": "Red",
+            "hat_type": "No Hat",
+            "hat_color": "Cyan",
+            "skin_color": "Skin Tone 4",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Nature",
+            "head_effect": "Spikes"
+        }
+    ]
+}

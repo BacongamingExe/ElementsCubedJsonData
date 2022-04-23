@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Dark Green",
+            "secondary_pants_color": "Light Tan",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Green",
+            "secondary_shirt_color": "Light Yellow",
+            "hat_type": "Afro",
+            "hat_color": "Dark Red",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Acid",
+            "head_effect": "Speed"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Orange",
+            "secondary_shirt_color": "Dark Blue",
+            "hat_type": "Headband",
+            "hat_color": "Light Purple",
+            "skin_color": "Blue",
+            "eye_type": "Circle Eyes",
+            "element_type": "Space",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Pink",
+            "secondary_shirt_color": "Light Red",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Light Red",
+            "skin_color": "Glass Purple",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Acid",
+            "head_effect": "Heart"
+        }
+    ]
+}

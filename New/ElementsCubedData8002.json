@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Gray",
+            "secondary_pants_color": "Light Tan",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Tan",
+            "secondary_shirt_color": "Light Pink",
+            "hat_type": "No Hat",
+            "hat_color": "Yellow",
+            "skin_color": "Glass Orange",
+            "eye_type": "Worn Eyes",
+            "element_type": "Ice",
+            "head_effect": "Mystery"
+        }
+    ]
+}

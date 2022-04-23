@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Boxers",
+            "pants_color": "Black",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "Red",
+            "hat_type": "Top Hat",
+            "hat_color": "White",
+            "skin_color": "Green",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Nature",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

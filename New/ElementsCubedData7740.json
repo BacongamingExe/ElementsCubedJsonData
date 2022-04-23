@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "Dark Red",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Tan",
+            "skin_color": "Pink",
+            "eye_type": "Confused Eyes",
+            "element_type": "Electric",
+            "head_effect": "Mystery"
+        }
+    ]
+}

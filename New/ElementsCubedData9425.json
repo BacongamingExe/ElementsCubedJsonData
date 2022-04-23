@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Gray",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Light Yellow",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Orange",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Earth",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

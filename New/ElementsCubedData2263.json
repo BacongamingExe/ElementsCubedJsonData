@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Dark Green",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Red",
+            "secondary_shirt_color": "Dark Blue",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Pink",
+            "skin_color": "Glass Red",
+            "eye_type": "Standard Eyes",
+            "element_type": "Electric",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

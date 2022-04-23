@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Blue",
+            "hat_type": "Beret",
+            "hat_color": "Light Yellow",
+            "skin_color": "Orange",
+            "eye_type": "Worn Eyes",
+            "element_type": "Earth",
+            "head_effect": "Ice"
+        }
+    ]
+}

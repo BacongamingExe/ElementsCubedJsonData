@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Pink",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Afro",
+            "hat_color": "Orange",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Double S Eyes",
+            "element_type": "Nature",
+            "head_effect": "Aura"
+        }
+    ]
+}

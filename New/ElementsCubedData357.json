@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Red",
+            "secondary_shirt_color": "Tan",
+            "hat_type": "Mohawk",
+            "hat_color": "Blue",
+            "skin_color": "Skin Tone 2",
+            "eye_type": "Square Eyes",
+            "element_type": "Space",
+            "head_effect": "Mystery"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Gray",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Light Green",
+            "secondary_shirt_color": "Dark Pink",
+            "hat_type": "Mohawk",
+            "hat_color": "Dark Green",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "Happy Eyes",
+            "element_type": "Ice",
+            "head_effect": "Mystery"
+        }
+    ]
+}

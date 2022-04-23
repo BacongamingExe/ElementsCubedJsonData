@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Green",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Orange",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Beret",
+            "hat_color": "Brown",
+            "skin_color": "Cyan",
+            "eye_type": "Confused Eyes",
+            "element_type": "Earth",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

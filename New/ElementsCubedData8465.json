@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Dark Green",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "White",
+            "secondary_shirt_color": "Dark Gray",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Pink",
+            "skin_color": "Glass Orange",
+            "eye_type": "Worn Eyes",
+            "element_type": "Air",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

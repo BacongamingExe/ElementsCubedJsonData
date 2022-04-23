@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Light Purple",
+            "secondary_shirt_color": "Pink",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Dark Purple",
+            "skin_color": "Blue",
+            "eye_type": "Plus Eyes",
+            "element_type": "Electric",
+            "head_effect": "Lightning"
+        }
+    ]
+}

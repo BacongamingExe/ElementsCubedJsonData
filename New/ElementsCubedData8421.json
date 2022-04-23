@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Gray",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Light Red",
+            "secondary_shirt_color": "Dark Gray",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Yellow",
+            "skin_color": "Skin Tone 2",
+            "eye_type": "Double S Eyes",
+            "element_type": "Nature",
+            "head_effect": "Speed"
+        }
+    ]
+}

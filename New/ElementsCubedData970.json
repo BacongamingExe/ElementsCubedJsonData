@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Light Tan",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Cyan",
+            "secondary_shirt_color": "Light Green",
+            "hat_type": "No Hat",
+            "hat_color": "Light Red",
+            "skin_color": "Cyan",
+            "eye_type": "Confused Eyes",
+            "element_type": "Electric",
+            "head_effect": "Speed"
+        }
+    ]
+}

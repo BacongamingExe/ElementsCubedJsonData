@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Black",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "White",
+            "secondary_shirt_color": "Gray",
+            "hat_type": "Beret",
+            "hat_color": "Pink",
+            "skin_color": "Purple",
+            "eye_type": "Square Eyes",
+            "element_type": "Earth",
+            "head_effect": "Smoke"
+        }
+    ]
+}

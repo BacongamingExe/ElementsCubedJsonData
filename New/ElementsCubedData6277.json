@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Red",
+            "secondary_shirt_color": "Light Yellow",
+            "hat_type": "Ponytail",
+            "hat_color": "Dark Pink",
+            "skin_color": "Glass Orange",
+            "eye_type": "Closed Eyes",
+            "element_type": "Acid",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

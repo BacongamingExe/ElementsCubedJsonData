@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Dark Green",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Puffballs",
+            "hat_color": "Cyan",
+            "skin_color": "Glass Purple",
+            "eye_type": "Closed Eyes",
+            "element_type": "Air",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

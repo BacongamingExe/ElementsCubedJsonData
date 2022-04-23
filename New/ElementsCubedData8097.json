@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Red",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Red",
+            "secondary_shirt_color": "Dark Gray",
+            "hat_type": "Normal Hair",
+            "hat_color": "Light Purple",
+            "skin_color": "Glass Pink",
+            "eye_type": "Circle Eyes",
+            "element_type": "Space",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

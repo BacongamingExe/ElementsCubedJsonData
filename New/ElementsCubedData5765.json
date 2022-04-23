@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Orange",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "Mohawk",
+            "hat_color": "Dark Green",
+            "skin_color": "Glass",
+            "eye_type": "Double S Eyes",
+            "element_type": "Nature",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

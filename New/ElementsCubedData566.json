@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Purple",
+            "secondary_shirt_color": "Dark Gray",
+            "hat_type": "Beret",
+            "hat_color": "Light Blue",
+            "skin_color": "Glass Pink",
+            "eye_type": "Confused Eyes",
+            "element_type": "Acid",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

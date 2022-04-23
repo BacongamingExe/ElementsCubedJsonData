@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Blue",
+            "secondary_shirt_color": "Pink",
+            "hat_type": "Headband",
+            "hat_color": "Yellow",
+            "skin_color": "Purple",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Nature",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

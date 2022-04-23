@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Light Purple",
+            "secondary_shirt_color": "Dark Gray",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "White",
+            "skin_color": "Skin Tone 4",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Fire",
+            "head_effect": "Ammo"
+        }
+    ]
+}

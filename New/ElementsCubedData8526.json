@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Gray",
+            "secondary_shirt_color": "Light Pink",
+            "hat_type": "Beret",
+            "hat_color": "Light Green",
+            "skin_color": "Pink",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Earth",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Black",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Red",
+            "secondary_shirt_color": "Light Blue",
+            "hat_type": "Normal Hair",
+            "hat_color": "Dark Purple",
+            "skin_color": "Blue",
+            "eye_type": "Standard Eyes",
+            "element_type": "Ice",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

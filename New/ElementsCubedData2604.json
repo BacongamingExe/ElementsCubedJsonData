@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Tan",
+            "secondary_pants_color": "White",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Light Green",
+            "secondary_shirt_color": "Light Blue",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Orange",
+            "skin_color": "Blue",
+            "eye_type": "Out Eyes",
+            "element_type": "Ice",
+            "head_effect": "Smoke"
+        }
+    ]
+}

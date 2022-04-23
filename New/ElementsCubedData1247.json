@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Gray",
+            "secondary_shirt_color": "Light Pink",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Black",
+            "skin_color": "Glass",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Space",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

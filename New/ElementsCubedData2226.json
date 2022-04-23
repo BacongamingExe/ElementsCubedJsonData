@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Green",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Light Red",
+            "secondary_shirt_color": "Dark Blue",
+            "hat_type": "Puffballs",
+            "hat_color": "Light Blue",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "Confused Eyes",
+            "element_type": "Space",
+            "head_effect": "Shield"
+        }
+    ]
+}

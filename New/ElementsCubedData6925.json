@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Light Pink",
+            "secondary_shirt_color": "Dark Blue",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Light Purple",
+            "skin_color": "Skin Tone 6",
+            "eye_type": "Worn Eyes",
+            "element_type": "Acid",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

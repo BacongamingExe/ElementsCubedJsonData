@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Red",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Afro",
+            "hat_color": "White",
+            "skin_color": "Pink",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Earth",
+            "head_effect": "Shield"
+        }
+    ]
+}

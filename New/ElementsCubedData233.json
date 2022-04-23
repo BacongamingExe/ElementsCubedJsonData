@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Light Blue",
+            "secondary_pants_color": "Light Tan",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Orange",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Light Yellow",
+            "skin_color": "Pink",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Nature",
+            "head_effect": "Ice"
+        }
+    ]
+}

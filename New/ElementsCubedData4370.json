@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "White",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Purple",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Afro",
+            "hat_color": "Orange",
+            "skin_color": "Red",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Fire",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "White",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Tan",
+            "secondary_shirt_color": "Green",
+            "hat_type": "Mohawk",
+            "hat_color": "Light Pink",
+            "skin_color": "Yellow",
+            "eye_type": "XD Eyes",
+            "element_type": "Ice",
+            "head_effect": "Mystery"
+        }
+    ]
+}

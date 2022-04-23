@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Red",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "Gray",
+            "hat_type": "No Hat",
+            "hat_color": "Dark Red",
+            "skin_color": "Skin Tone 5",
+            "eye_type": "Standard Eyes",
+            "element_type": "Air",
+            "head_effect": "Smoke"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Light Tan",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Red",
+            "secondary_shirt_color": "Yellow",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Light Red",
+            "skin_color": "Skin Tone 5",
+            "eye_type": "Plus Eyes",
+            "element_type": "Nature",
+            "head_effect": "Speed"
+        }
+    ]
+}

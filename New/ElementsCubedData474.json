@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Orange",
+            "secondary_shirt_color": "Light Purple",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Dark Blue",
+            "skin_color": "Glass Blue",
+            "eye_type": "Plus Eyes",
+            "element_type": "Metal",
+            "head_effect": "Mystery"
+        }
+    ]
+}

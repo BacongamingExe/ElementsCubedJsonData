@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "White",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Orange",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Headband",
+            "hat_color": "Dark Red",
+            "skin_color": "Blue",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Fire",
+            "head_effect": "Mystery"
+        }
+    ]
+}

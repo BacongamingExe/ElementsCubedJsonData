@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Dark Green",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Gray",
+            "secondary_shirt_color": "Brown",
+            "hat_type": "Ponytail",
+            "hat_color": "Yellow",
+            "skin_color": "Red",
+            "eye_type": "Plus Eyes",
+            "element_type": "Earth",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

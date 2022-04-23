@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Gray",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Red",
+            "secondary_shirt_color": "Yellow",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "Gray",
+            "skin_color": "Skin Tone 4",
+            "eye_type": "Double S Eyes",
+            "element_type": "Air",
+            "head_effect": "Speed"
+        }
+    ]
+}

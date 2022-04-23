@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Red",
+            "secondary_shirt_color": "Dark Red",
+            "hat_type": "Top Hat",
+            "hat_color": "Dark Yellow",
+            "skin_color": "Pink",
+            "eye_type": "Happy Eyes",
+            "element_type": "Air",
+            "head_effect": "Ammo"
+        }
+    ]
+}

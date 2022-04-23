@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Light Blue",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "Gray",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "Cyan",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Electric",
+            "head_effect": "Mystery"
+        }
+    ]
+}

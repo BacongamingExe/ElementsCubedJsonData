@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Blue",
+            "secondary_shirt_color": "Gray",
+            "hat_type": "Normal Hair",
+            "hat_color": "Light Red",
+            "skin_color": "Blue",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Nature",
+            "head_effect": "Ice"
+        }
+    ]
+}

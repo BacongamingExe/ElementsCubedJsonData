@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Red",
+            "secondary_pants_color": "White",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Blue",
+            "secondary_shirt_color": "Red",
+            "hat_type": "Ponytail",
+            "hat_color": "Light Purple",
+            "skin_color": "Glass Red",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Air",
+            "head_effect": "Aura"
+        }
+    ]
+}

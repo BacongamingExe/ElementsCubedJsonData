@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "White",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Purple",
+            "secondary_shirt_color": "Tan",
+            "hat_type": "Mohawk",
+            "hat_color": "Yellow",
+            "skin_color": "Glass Orange",
+            "eye_type": "Plus Eyes",
+            "element_type": "Space",
+            "head_effect": "Smoke"
+        }
+    ]
+}

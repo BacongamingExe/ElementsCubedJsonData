@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Light Pink",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Dark Yellow",
+            "skin_color": "Green",
+            "eye_type": "XD Eyes",
+            "element_type": "Electric",
+            "head_effect": "Smoke"
+        }
+    ]
+}

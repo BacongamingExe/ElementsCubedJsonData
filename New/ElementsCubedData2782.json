@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Light Purple",
+            "secondary_shirt_color": "Light Yellow",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "Dark Red",
+            "skin_color": "Blue",
+            "eye_type": "Closed Eyes",
+            "element_type": "Fire",
+            "head_effect": "Lightning"
+        }
+    ]
+}

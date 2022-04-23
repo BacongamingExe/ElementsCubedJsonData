@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Boxers",
+            "pants_color": "Pink",
+            "secondary_pants_color": "White",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "White",
+            "secondary_shirt_color": "Black",
+            "hat_type": "No Hat",
+            "hat_color": "Light Blue",
+            "skin_color": "Skin Tone 5",
+            "eye_type": "Confused Eyes",
+            "element_type": "Earth",
+            "head_effect": "Shield"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Red",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Gray",
+            "secondary_shirt_color": "White",
+            "hat_type": "Ponytail",
+            "hat_color": "Dark Red",
+            "skin_color": "Orange",
+            "eye_type": "Circle Eyes",
+            "element_type": "Acid",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

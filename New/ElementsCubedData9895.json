@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Red",
+            "secondary_shirt_color": "Brown",
+            "hat_type": "Mohawk",
+            "hat_color": "Cyan",
+            "skin_color": "Glass",
+            "eye_type": "Confused Eyes",
+            "element_type": "Air",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

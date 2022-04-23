@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Boxers",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Black",
+            "secondary_shirt_color": "Dark Blue",
+            "hat_type": "Mohawk",
+            "hat_color": "Brown",
+            "skin_color": "Skin Tone 5",
+            "eye_type": "Standard Eyes",
+            "element_type": "Metal",
+            "head_effect": "Heart"
+        }
+    ]
+}

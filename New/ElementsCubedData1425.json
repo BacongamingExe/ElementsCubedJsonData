@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Light Red",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "Top Hat",
+            "hat_color": "Light Pink",
+            "skin_color": "Orange",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Acid",
+            "head_effect": "Ice"
+        }
+    ]
+}

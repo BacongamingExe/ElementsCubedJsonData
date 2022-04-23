@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Red",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "White",
+            "secondary_shirt_color": "Blue",
+            "hat_type": "Afro",
+            "hat_color": "Green",
+            "skin_color": "Yellow",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Nature",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

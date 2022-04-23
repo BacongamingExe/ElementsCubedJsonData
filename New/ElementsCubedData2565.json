@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Red",
+            "secondary_pants_color": "Light Tan",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Green",
+            "secondary_shirt_color": "Light Pink",
+            "hat_type": "Headband",
+            "hat_color": "Gray",
+            "skin_color": "Skin Tone 4",
+            "eye_type": "Circle Eyes",
+            "element_type": "Earth",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

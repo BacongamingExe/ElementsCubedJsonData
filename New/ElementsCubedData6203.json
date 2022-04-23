@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Light Pink",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Puffballs",
+            "hat_color": "Light Yellow",
+            "skin_color": "Orange",
+            "eye_type": "Worn Eyes",
+            "element_type": "Space",
+            "head_effect": "Shield"
+        }
+    ]
+}

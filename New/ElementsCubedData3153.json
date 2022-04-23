@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Dark Gray",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Top Hat",
+            "hat_color": "Dark Pink",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "Happy Eyes",
+            "element_type": "Ice",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

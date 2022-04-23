@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Green",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Yellow",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Mohawk",
+            "hat_color": "Black",
+            "skin_color": "Glass Red",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Fire",
+            "head_effect": "Mystery"
+        }
+    ]
+}

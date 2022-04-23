@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Gray",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Brown",
+            "secondary_shirt_color": "Dark Orange",
+            "hat_type": "Ponytail",
+            "hat_color": "Light Green",
+            "skin_color": "Skin Tone 6",
+            "eye_type": "Circle Eyes",
+            "element_type": "Electric",
+            "head_effect": "Ice"
+        }
+    ]
+}

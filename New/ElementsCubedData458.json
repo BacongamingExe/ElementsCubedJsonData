@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "White",
+            "secondary_shirt_color": "White",
+            "hat_type": "Normal Hair",
+            "hat_color": "Dark Orange",
+            "skin_color": "Glass Orange",
+            "eye_type": "Plus Eyes",
+            "element_type": "Nature",
+            "head_effect": "Shield"
+        }
+    ]
+}

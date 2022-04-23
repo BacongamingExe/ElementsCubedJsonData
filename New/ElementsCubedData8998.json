@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Boxers",
+            "pants_color": "Black",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Light Green",
+            "secondary_shirt_color": "Tan",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Light Red",
+            "skin_color": "Purple",
+            "eye_type": "Double S Eyes",
+            "element_type": "Earth",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Gray",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Orange",
+            "secondary_shirt_color": "Dark Blue",
+            "hat_type": "Ponytail",
+            "hat_color": "Red",
+            "skin_color": "Red",
+            "eye_type": "XD Eyes",
+            "element_type": "Electric",
+            "head_effect": "Ammo"
+        }
+    ]
+}

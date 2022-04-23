@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "White",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Blue",
+            "secondary_shirt_color": "Light Purple",
+            "hat_type": "Mohawk",
+            "hat_color": "Dark Purple",
+            "skin_color": "Skin Tone 6",
+            "eye_type": "Circle Eyes",
+            "element_type": "Metal",
+            "head_effect": "Smoke"
+        }
+    ]
+}

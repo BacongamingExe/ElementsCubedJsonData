@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Pink",
+            "secondary_shirt_color": "Light Red",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Dark Yellow",
+            "skin_color": "Skin Tone 5",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Metal",
+            "head_effect": "Aura"
+        }
+    ]
+}

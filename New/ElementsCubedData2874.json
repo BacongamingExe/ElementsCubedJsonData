@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "No Hat",
+            "hat_color": "Brown",
+            "skin_color": "Skin Tone 6",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Electric",
+            "head_effect": "Mystery"
+        }
+    ]
+}

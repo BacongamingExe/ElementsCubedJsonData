@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Dark Purple",
+            "secondary_shirt_color": "Dark Gray",
+            "hat_type": "Afro",
+            "hat_color": "Purple",
+            "skin_color": "Glass Blue",
+            "eye_type": "Standard Eyes",
+            "element_type": "Space",
+            "head_effect": "Mystery"
+        }
+    ]
+}

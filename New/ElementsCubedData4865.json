@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Yellow",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "No Hat",
+            "hat_color": "Dark Orange",
+            "skin_color": "Red",
+            "eye_type": "Worn Eyes",
+            "element_type": "Acid",
+            "head_effect": "Ammo"
+        }
+    ]
+}

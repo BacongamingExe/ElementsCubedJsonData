@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Black",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Pink",
+            "secondary_shirt_color": "Dark Blue",
+            "hat_type": "Beret",
+            "hat_color": "Dark Red",
+            "skin_color": "Blue",
+            "eye_type": "Out Eyes",
+            "element_type": "Earth",
+            "head_effect": "Ammo"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Light Pink",
+            "secondary_shirt_color": "Light Red",
+            "hat_type": "Normal Hair",
+            "hat_color": "Brown",
+            "skin_color": "Glass Blue",
+            "eye_type": "Confused Eyes",
+            "element_type": "Electric",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

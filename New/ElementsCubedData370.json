@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Pink",
+            "secondary_shirt_color": "Dark Red",
+            "hat_type": "Beret",
+            "hat_color": "Light Pink",
+            "skin_color": "Purple",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Fire",
+            "head_effect": "Mystery"
+        }
+    ]
+}

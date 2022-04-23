@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Boxers",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Light Purple",
+            "secondary_shirt_color": "Gray",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "Light Purple",
+            "skin_color": "Skin Tone 6",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Nature",
+            "head_effect": "Shield"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Black",
+            "secondary_shirt_color": "Dark Blue",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Light Red",
+            "skin_color": "Glass",
+            "eye_type": "Out Eyes",
+            "element_type": "Space",
+            "head_effect": "Shield"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Purple",
+            "secondary_shirt_color": "Dark Blue",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Dark Gray",
+            "skin_color": "Blue",
+            "eye_type": "XD Eyes",
+            "element_type": "Nature",
+            "head_effect": "Spikes"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Light Blue",
+            "secondary_pants_color": "White",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "Red",
+            "hat_type": "Top Hat",
+            "hat_color": "Blue",
+            "skin_color": "Skin Tone 5",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Fire",
+            "head_effect": "Heart"
+        }
+    ]
+}

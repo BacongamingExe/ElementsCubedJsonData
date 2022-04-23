@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Green",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Black",
+            "secondary_shirt_color": "Blue",
+            "hat_type": "Headband",
+            "hat_color": "Light Purple",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Double S Eyes",
+            "element_type": "Nature",
+            "head_effect": "Ice"
+        }
+    ]
+}

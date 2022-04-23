@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Light Tan",
+            "secondary_pants_color": "Light Tan",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Gray",
+            "secondary_shirt_color": "Light Yellow",
+            "hat_type": "Puffballs",
+            "hat_color": "Light Yellow",
+            "skin_color": "Green",
+            "eye_type": "XD Eyes",
+            "element_type": "Space",
+            "head_effect": "Lightning"
+        }
+    ]
+}

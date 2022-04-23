@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Green",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Pink",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Ponytail",
+            "hat_color": "Orange",
+            "skin_color": "Glass Orange",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Ice",
+            "head_effect": "Mystery"
+        }
+    ]
+}

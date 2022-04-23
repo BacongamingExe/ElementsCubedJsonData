@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Black",
+            "secondary_pants_color": "White",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Purple",
+            "secondary_shirt_color": "Gray",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Light Red",
+            "skin_color": "Skin Tone 5",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Electric",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

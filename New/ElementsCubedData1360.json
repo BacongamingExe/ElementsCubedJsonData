@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Light Green",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Dark Green",
+            "skin_color": "Glass Red",
+            "eye_type": "Square Eyes",
+            "element_type": "Earth",
+            "head_effect": "Smoke"
+        }
+    ]
+}

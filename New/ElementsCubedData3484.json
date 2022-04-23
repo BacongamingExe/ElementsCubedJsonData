@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Blue",
+            "secondary_shirt_color": "White",
+            "hat_type": "Top Hat",
+            "hat_color": "Tan",
+            "skin_color": "Glass",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Space",
+            "head_effect": "Aura"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "White",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Blue",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Yellow",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Acid",
+            "head_effect": "Heart"
+        }
+    ]
+}

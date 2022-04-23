@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "White",
+            "secondary_shirt_color": "Black",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Yellow",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Acid",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

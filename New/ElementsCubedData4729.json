@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Gray",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Orange",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "Ponytail",
+            "hat_color": "Dark Yellow",
+            "skin_color": "Glass Green",
+            "eye_type": "Standard Eyes",
+            "element_type": "Fire",
+            "head_effect": "Ice"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Green",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Pink",
+            "secondary_shirt_color": "Dark Pink",
+            "hat_type": "No Hat",
+            "hat_color": "Dark Green",
+            "skin_color": "Glass Yellow",
+            "eye_type": "Closed Eyes",
+            "element_type": "Earth",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

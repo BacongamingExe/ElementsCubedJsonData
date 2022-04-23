@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Black",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Brown",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Puffballs",
+            "hat_color": "Light Red",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Plus Eyes",
+            "element_type": "Fire",
+            "head_effect": "Speed"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Green",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Normal Hair",
+            "hat_color": "Blue",
+            "skin_color": "Skin Tone 6",
+            "eye_type": "XD Eyes",
+            "element_type": "Fire",
+            "head_effect": "Ammo"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Light Red",
+            "secondary_shirt_color": "Orange",
+            "hat_type": "Afro",
+            "hat_color": "Dark Gray",
+            "skin_color": "Glass Pink",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Metal",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

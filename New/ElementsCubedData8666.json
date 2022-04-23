@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Black",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Light Purple",
+            "secondary_shirt_color": "Dark Gray",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Orange",
+            "skin_color": "Glass Orange",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Space",
+            "head_effect": "Mystery"
+        }
+    ]
+}

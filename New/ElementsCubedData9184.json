@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Orange",
+            "secondary_shirt_color": "Light Yellow",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Blue",
+            "skin_color": "Green",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Metal",
+            "head_effect": "Spikes"
+        }
+    ]
+}

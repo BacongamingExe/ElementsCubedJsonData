@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Dark Green",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Brown",
+            "secondary_shirt_color": "Light Blue",
+            "hat_type": "No Hat",
+            "hat_color": "Dark Pink",
+            "skin_color": "Glass Yellow",
+            "eye_type": "Closed Eyes",
+            "element_type": "Electric",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

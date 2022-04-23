@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Red",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Light Pink",
+            "secondary_shirt_color": "Dark Orange",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Gray",
+            "skin_color": "Cyan",
+            "eye_type": "Double S Eyes",
+            "element_type": "Nature",
+            "head_effect": "Smoke"
+        }
+    ]
+}

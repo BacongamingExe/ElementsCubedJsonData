@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "Blue",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Green",
+            "skin_color": "Glass Blue",
+            "eye_type": "Plus Eyes",
+            "element_type": "Nature",
+            "head_effect": "Ammo"
+        }
+    ]
+}

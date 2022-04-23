@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Purple",
+            "secondary_shirt_color": "Black",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Tan",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Electric",
+            "head_effect": "Mystery"
+        }
+    ]
+}

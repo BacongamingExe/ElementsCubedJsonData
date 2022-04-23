@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Light Blue",
+            "secondary_shirt_color": "Light Red",
+            "hat_type": "Headband",
+            "hat_color": "Light Pink",
+            "skin_color": "Glass Pink",
+            "eye_type": "Standard Eyes",
+            "element_type": "Fire",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

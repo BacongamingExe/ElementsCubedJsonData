@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Orange",
+            "secondary_shirt_color": "Black",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "Dark Red",
+            "skin_color": "Glass Red",
+            "eye_type": "Worn Eyes",
+            "element_type": "Fire",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

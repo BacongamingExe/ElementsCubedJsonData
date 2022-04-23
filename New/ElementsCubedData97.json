@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Gray",
+            "secondary_shirt_color": "Light Pink",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Cyan",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Acid",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Dark Green",
+            "secondary_pants_color": "Light Tan",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Blue",
+            "secondary_shirt_color": "Brown",
+            "hat_type": "Normal Hair",
+            "hat_color": "Purple",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Ice",
+            "head_effect": "Shield"
+        }
+    ]
+}

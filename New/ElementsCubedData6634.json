@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Yellow",
+            "secondary_shirt_color": "Black",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Light Red",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Ice",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

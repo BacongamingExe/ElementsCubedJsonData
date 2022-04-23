@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Cyan",
+            "secondary_shirt_color": "Green",
+            "hat_type": "Normal Hair",
+            "hat_color": "Green",
+            "skin_color": "Orange",
+            "eye_type": "XD Eyes",
+            "element_type": "Nature",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

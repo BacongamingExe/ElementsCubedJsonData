@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Pink",
+            "secondary_shirt_color": "Light Yellow",
+            "hat_type": "Ponytail",
+            "hat_color": "Tan",
+            "skin_color": "Pink",
+            "eye_type": "Worn Eyes",
+            "element_type": "Nature",
+            "head_effect": "Ammo"
+        }
+    ]
+}

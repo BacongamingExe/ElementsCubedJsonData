@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Dark Gray",
+            "hat_type": "Puffballs",
+            "hat_color": "Light Purple",
+            "skin_color": "Glass",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Fire",
+            "head_effect": "Spikes"
+        }
+    ]
+}

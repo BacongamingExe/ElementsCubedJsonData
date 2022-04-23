@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Green",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "Gray",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "Light Purple",
+            "skin_color": "Glass Blue",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Earth",
+            "head_effect": "Ammo"
+        }
+    ]
+}

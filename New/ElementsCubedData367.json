@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Light Tan",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Tan",
+            "secondary_shirt_color": "Light Blue",
+            "hat_type": "No Hat",
+            "hat_color": "Pink",
+            "skin_color": "Skin Tone 5",
+            "eye_type": "XD Eyes",
+            "element_type": "Fire",
+            "head_effect": "Smoke"
+        }
+    ]
+}

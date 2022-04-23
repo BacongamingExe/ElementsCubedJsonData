@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Red",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Light Yellow",
+            "secondary_shirt_color": "Light Green",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Dark Red",
+            "skin_color": "Glass Purple",
+            "eye_type": "Closed Eyes",
+            "element_type": "Earth",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

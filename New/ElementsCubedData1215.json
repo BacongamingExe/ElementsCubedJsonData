@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Red",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Pink",
+            "secondary_shirt_color": "Blue",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "Light Red",
+            "skin_color": "Glass Purple",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Earth",
+            "head_effect": "Speed"
+        }
+    ]
+}

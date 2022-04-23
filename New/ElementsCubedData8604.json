@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Purple",
+            "secondary_shirt_color": "Red",
+            "hat_type": "No Hat",
+            "hat_color": "White",
+            "skin_color": "Skin Tone 2",
+            "eye_type": "Closed Eyes",
+            "element_type": "Fire",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

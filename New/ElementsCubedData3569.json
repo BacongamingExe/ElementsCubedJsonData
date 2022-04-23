@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Red",
+            "secondary_shirt_color": "Pink",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Purple",
+            "skin_color": "Glass Orange",
+            "eye_type": "Confused Eyes",
+            "element_type": "Metal",
+            "head_effect": "Smoke"
+        }
+    ]
+}

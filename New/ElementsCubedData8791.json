@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Dark Green",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Black",
+            "secondary_shirt_color": "White",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Red",
+            "skin_color": "Pink",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Earth",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

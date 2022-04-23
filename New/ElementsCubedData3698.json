@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "White",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Green",
+            "secondary_shirt_color": "Dark Purple",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "Dark Orange",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Square Eyes",
+            "element_type": "Space",
+            "head_effect": "Shield"
+        }
+    ]
+}

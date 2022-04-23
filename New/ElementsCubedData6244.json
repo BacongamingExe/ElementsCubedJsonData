@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Light Tan",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Tan",
+            "secondary_shirt_color": "Brown",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Gray",
+            "skin_color": "Blue",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Fire",
+            "head_effect": "Mystery"
+        }
+    ]
+}

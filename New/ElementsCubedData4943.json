@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Green",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Blue",
+            "secondary_shirt_color": "Dark Purple",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "Dark Yellow",
+            "skin_color": "Yellow",
+            "eye_type": "XD Eyes",
+            "element_type": "Air",
+            "head_effect": "Heart"
+        }
+    ]
+}

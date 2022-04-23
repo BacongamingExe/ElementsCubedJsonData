@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Boxers",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Purple",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Beret",
+            "hat_color": "Gray",
+            "skin_color": "Glass Orange",
+            "eye_type": "Out Eyes",
+            "element_type": "Acid",
+            "head_effect": "Ice"
+        }
+    ]
+}

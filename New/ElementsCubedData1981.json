@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "White",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Orange",
+            "secondary_shirt_color": "Dark Purple",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Light Yellow",
+            "skin_color": "Glass Purple",
+            "eye_type": "Happy Eyes",
+            "element_type": "Air",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

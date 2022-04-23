@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Tan",
+            "secondary_shirt_color": "Dark Purple",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Dark Orange",
+            "skin_color": "Orange",
+            "eye_type": "Standard Eyes",
+            "element_type": "Earth",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

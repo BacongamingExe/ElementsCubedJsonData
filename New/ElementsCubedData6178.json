@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Purple",
+            "secondary_shirt_color": "Light Green",
+            "hat_type": "Headband",
+            "hat_color": "Green",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "Circle Eyes",
+            "element_type": "Space",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

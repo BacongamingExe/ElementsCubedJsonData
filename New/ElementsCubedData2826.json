@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Light Tan",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Cyan",
+            "secondary_shirt_color": "Yellow",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Light Blue",
+            "skin_color": "Green",
+            "eye_type": "Circle Eyes",
+            "element_type": "Electric",
+            "head_effect": "Shield"
+        }
+    ]
+}

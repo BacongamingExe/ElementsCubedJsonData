@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Boxers",
+            "pants_color": "Gray",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Blue",
+            "secondary_shirt_color": "Dark Purple",
+            "hat_type": "Mohawk",
+            "hat_color": "Green",
+            "skin_color": "Red",
+            "eye_type": "Double S Eyes",
+            "element_type": "Ice",
+            "head_effect": "Smoke"
+        }
+    ]
+}

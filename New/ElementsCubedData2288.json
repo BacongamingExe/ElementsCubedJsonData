@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Light Blue",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Light Blue",
+            "secondary_shirt_color": "Light Pink",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Dark Blue",
+            "skin_color": "Blue",
+            "eye_type": "Standard Eyes",
+            "element_type": "Nature",
+            "head_effect": "Aura"
+        }
+    ]
+}

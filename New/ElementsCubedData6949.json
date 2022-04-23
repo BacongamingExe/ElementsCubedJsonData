@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Boxers",
+            "pants_color": "Black",
+            "secondary_pants_color": "Light Tan",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Orange",
+            "secondary_shirt_color": "Dark Red",
+            "hat_type": "No Hat",
+            "hat_color": "Orange",
+            "skin_color": "Red",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Space",
+            "head_effect": "Ammo"
+        }
+    ]
+}

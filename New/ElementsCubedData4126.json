@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Dark Blue",
+            "secondary_shirt_color": "Dark Purple",
+            "hat_type": "Afro",
+            "hat_color": "Dark Pink",
+            "skin_color": "Glass Purple",
+            "eye_type": "XD Eyes",
+            "element_type": "Ice",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

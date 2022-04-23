@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Green",
+            "secondary_shirt_color": "Dark Pink",
+            "hat_type": "Afro",
+            "hat_color": "White",
+            "skin_color": "Skin Tone 2",
+            "eye_type": "Standard Eyes",
+            "element_type": "Metal",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Red",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Blue",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Normal Hair",
+            "hat_color": "Pink",
+            "skin_color": "Orange",
+            "eye_type": "Worn Eyes",
+            "element_type": "Ice",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

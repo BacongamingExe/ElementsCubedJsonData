@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "White",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Light Blue",
+            "secondary_shirt_color": "White",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Orange",
+            "skin_color": "Pink",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Fire",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

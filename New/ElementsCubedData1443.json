@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Black",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Light Blue",
+            "secondary_shirt_color": "Blue",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Light Red",
+            "skin_color": "Cyan",
+            "eye_type": "Circle Eyes",
+            "element_type": "Space",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

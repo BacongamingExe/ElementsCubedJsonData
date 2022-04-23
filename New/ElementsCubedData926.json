@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Pink",
+            "secondary_shirt_color": "Green",
+            "hat_type": "Headband",
+            "hat_color": "Dark Pink",
+            "skin_color": "Glass Purple",
+            "eye_type": "Worn Eyes",
+            "element_type": "Metal",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

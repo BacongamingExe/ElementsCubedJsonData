@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "White",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Green",
+            "secondary_shirt_color": "Dark Gray",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Dark Red",
+            "skin_color": "Glass Blue",
+            "eye_type": "Plus Eyes",
+            "element_type": "Metal",
+            "head_effect": "Ammo"
+        }
+    ]
+}

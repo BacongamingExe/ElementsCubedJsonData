@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Purple",
+            "secondary_shirt_color": "Light Green",
+            "hat_type": "Headband",
+            "hat_color": "Tan",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Closed Eyes",
+            "element_type": "Electric",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Dark Green",
+            "secondary_pants_color": "White",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "Dark Pink",
+            "hat_type": "Top Hat",
+            "hat_color": "Green",
+            "skin_color": "Skin Tone 5",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Nature",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Brown",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "Pink",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "XD Eyes",
+            "element_type": "Acid",
+            "head_effect": "Lightning"
+        }
+    ]
+}

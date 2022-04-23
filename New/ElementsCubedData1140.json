@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Pink",
+            "secondary_shirt_color": "Dark Pink",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Dark Blue",
+            "skin_color": "Blue",
+            "eye_type": "XD Eyes",
+            "element_type": "Space",
+            "head_effect": "Shield"
+        }
+    ]
+}

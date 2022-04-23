@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Red",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Cyan",
+            "secondary_shirt_color": "Dark Yellow",
+            "hat_type": "Headband",
+            "hat_color": "Brown",
+            "skin_color": "Skin Tone 2",
+            "eye_type": "Happy Eyes",
+            "element_type": "Fire",
+            "head_effect": "Lightning"
+        }
+    ]
+}

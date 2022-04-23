@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Gray",
+            "secondary_shirt_color": "Dark Blue",
+            "hat_type": "Top Hat",
+            "hat_color": "Orange",
+            "skin_color": "Glass Purple",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Acid",
+            "head_effect": "Heart"
+        }
+    ]
+}

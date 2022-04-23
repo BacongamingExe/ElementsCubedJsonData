@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Light Purple",
+            "skin_color": "Glass Orange",
+            "eye_type": "Closed Eyes",
+            "element_type": "Air",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

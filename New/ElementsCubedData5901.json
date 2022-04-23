@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Light Blue",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Brown",
+            "secondary_shirt_color": "Black",
+            "hat_type": "Mohawk",
+            "hat_color": "Dark Pink",
+            "skin_color": "Skin Tone 2",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Earth",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

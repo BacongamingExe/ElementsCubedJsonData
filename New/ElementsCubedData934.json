@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Red",
+            "secondary_pants_color": "White",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Yellow",
+            "secondary_shirt_color": "Dark Pink",
+            "hat_type": "Normal Hair",
+            "hat_color": "Light Pink",
+            "skin_color": "Glass Yellow",
+            "eye_type": "Standard Eyes",
+            "element_type": "Nature",
+            "head_effect": "Lightning"
+        }
+    ]
+}

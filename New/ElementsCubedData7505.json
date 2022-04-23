@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "White",
+            "secondary_shirt_color": "Green",
+            "hat_type": "Mohawk",
+            "hat_color": "Dark Pink",
+            "skin_color": "Glass Cyan",
+            "eye_type": "Circle Eyes",
+            "element_type": "Fire",
+            "head_effect": "Heart"
+        }
+    ]
+}

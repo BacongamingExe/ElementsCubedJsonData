@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Black",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Orange",
+            "secondary_shirt_color": "Light Green",
+            "hat_type": "Headband",
+            "hat_color": "Orange",
+            "skin_color": "Glass",
+            "eye_type": "Closed Eyes",
+            "element_type": "Metal",
+            "head_effect": "Mystery"
+        }
+    ]
+}

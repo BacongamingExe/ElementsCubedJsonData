@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "White",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Light Pink",
+            "secondary_shirt_color": "Light Blue",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Brown",
+            "skin_color": "Green",
+            "eye_type": "Standard Eyes",
+            "element_type": "Air",
+            "head_effect": "Heart"
+        }
+    ]
+}

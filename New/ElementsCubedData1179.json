@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Black",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Black",
+            "secondary_shirt_color": "Orange",
+            "hat_type": "Puffballs",
+            "hat_color": "White",
+            "skin_color": "Glass Red",
+            "eye_type": "Out Eyes",
+            "element_type": "Metal",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

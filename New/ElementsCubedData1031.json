@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Light Yellow",
+            "secondary_shirt_color": "Brown",
+            "hat_type": "Beret",
+            "hat_color": "Dark Gray",
+            "skin_color": "Glass",
+            "eye_type": "Circle Eyes",
+            "element_type": "Acid",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

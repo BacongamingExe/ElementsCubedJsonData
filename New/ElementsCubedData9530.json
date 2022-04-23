@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Light Blue",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Orange",
+            "secondary_shirt_color": "Dark Orange",
+            "hat_type": "Normal Hair",
+            "hat_color": "White",
+            "skin_color": "Skin Tone 6",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Nature",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

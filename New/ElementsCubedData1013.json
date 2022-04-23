@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Gray",
+            "secondary_shirt_color": "Light Red",
+            "hat_type": "Ponytail",
+            "hat_color": "Brown",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Space",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

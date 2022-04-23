@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Red",
+            "secondary_shirt_color": "Light Blue",
+            "hat_type": "Ponytail",
+            "hat_color": "Light Green",
+            "skin_color": "Skin Tone 2",
+            "eye_type": "XD Eyes",
+            "element_type": "Fire",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

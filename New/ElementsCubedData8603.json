@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Blue",
+            "secondary_shirt_color": "Light Purple",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Red",
+            "skin_color": "Yellow",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Space",
+            "head_effect": "Aura"
+        }
+    ]
+}

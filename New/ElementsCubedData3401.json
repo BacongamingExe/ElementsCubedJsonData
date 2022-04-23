@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Green",
+            "secondary_shirt_color": "Blue",
+            "hat_type": "Top Hat",
+            "hat_color": "Dark Orange",
+            "skin_color": "Skin Tone 2",
+            "eye_type": "Happy Eyes",
+            "element_type": "Air",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

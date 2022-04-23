@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Light Tan",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Gray",
+            "secondary_shirt_color": "Dark Pink",
+            "hat_type": "Puffballs",
+            "hat_color": "Cyan",
+            "skin_color": "Glass Cyan",
+            "eye_type": "Closed Eyes",
+            "element_type": "Ice",
+            "head_effect": "Ice"
+        }
+    ]
+}

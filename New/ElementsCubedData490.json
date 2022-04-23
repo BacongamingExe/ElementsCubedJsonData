@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Green",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Purple",
+            "secondary_shirt_color": "Light Yellow",
+            "hat_type": "Normal Hair",
+            "hat_color": "Dark Purple",
+            "skin_color": "Purple",
+            "eye_type": "Closed Eyes",
+            "element_type": "Space",
+            "head_effect": "Lightning"
+        }
+    ]
+}

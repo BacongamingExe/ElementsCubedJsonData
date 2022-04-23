@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Purple",
+            "secondary_shirt_color": "Tan",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Red",
+            "skin_color": "Glass Red",
+            "eye_type": "Circle Eyes",
+            "element_type": "Air",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

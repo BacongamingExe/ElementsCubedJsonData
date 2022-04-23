@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "White",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Light Pink",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "Ponytail",
+            "hat_color": "Light Pink",
+            "skin_color": "Green",
+            "eye_type": "Circle Eyes",
+            "element_type": "Acid",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

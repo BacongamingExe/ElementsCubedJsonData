@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Black",
+            "secondary_pants_color": "Light Tan",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Light Yellow",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "Headband",
+            "hat_color": "Dark Orange",
+            "skin_color": "Skin Tone 2",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Nature",
+            "head_effect": "Ice"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Black",
+            "secondary_pants_color": "Light Tan",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Blue",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Beret",
+            "hat_color": "Light Green",
+            "skin_color": "Cyan",
+            "eye_type": "Happy Eyes",
+            "element_type": "Electric",
+            "head_effect": "Lightning"
+        }
+    ]
+}

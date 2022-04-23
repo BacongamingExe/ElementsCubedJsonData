@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Dark Green",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Cyan",
+            "secondary_shirt_color": "Light Purple",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Brown",
+            "skin_color": "Green",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Metal",
+            "head_effect": "Spikes"
+        }
+    ]
+}

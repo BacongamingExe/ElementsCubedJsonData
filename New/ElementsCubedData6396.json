@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Dark Green",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Pink",
+            "secondary_shirt_color": "White",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Dark Yellow",
+            "skin_color": "Skin Tone 6",
+            "eye_type": "XD Eyes",
+            "element_type": "Metal",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

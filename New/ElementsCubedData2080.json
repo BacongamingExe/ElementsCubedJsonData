@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Light Pink",
+            "secondary_shirt_color": "Green",
+            "hat_type": "Normal Hair",
+            "hat_color": "Cyan",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "Square Eyes",
+            "element_type": "Acid",
+            "head_effect": "Ice"
+        }
+    ]
+}

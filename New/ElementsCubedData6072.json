@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Light Green",
+            "secondary_shirt_color": "Dark Purple",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Red",
+            "skin_color": "Orange",
+            "eye_type": "Square Eyes",
+            "element_type": "Metal",
+            "head_effect": "Ammo"
+        }
+    ]
+}

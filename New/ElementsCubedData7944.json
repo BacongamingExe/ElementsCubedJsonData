@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Green",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Blue",
+            "secondary_shirt_color": "Dark Yellow",
+            "hat_type": "Mohawk",
+            "hat_color": "Light Green",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Standard Eyes",
+            "element_type": "Nature",
+            "head_effect": "Shield"
+        }
+    ]
+}

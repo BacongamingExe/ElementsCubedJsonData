@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "White",
+            "secondary_shirt_color": "Light Purple",
+            "hat_type": "No Hat",
+            "hat_color": "Green",
+            "skin_color": "Orange",
+            "eye_type": "Out Eyes",
+            "element_type": "Space",
+            "head_effect": "Shield"
+        }
+    ]
+}

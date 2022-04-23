@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Light Pink",
+            "secondary_shirt_color": "Light Pink",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Light Blue",
+            "skin_color": "Orange",
+            "eye_type": "Standard Eyes",
+            "element_type": "Space",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

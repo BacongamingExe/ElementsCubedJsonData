@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Black",
+            "secondary_shirt_color": "Light Red",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Dark Blue",
+            "skin_color": "Glass Blue",
+            "eye_type": "Happy Eyes",
+            "element_type": "Metal",
+            "head_effect": "Ice"
+        }
+    ]
+}

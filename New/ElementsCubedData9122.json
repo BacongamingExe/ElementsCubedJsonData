@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Light Green",
+            "secondary_shirt_color": "Light Red",
+            "hat_type": "Headband",
+            "hat_color": "Dark Green",
+            "skin_color": "Glass Blue",
+            "eye_type": "Happy Eyes",
+            "element_type": "Nature",
+            "head_effect": "Mystery"
+        }
+    ]
+}

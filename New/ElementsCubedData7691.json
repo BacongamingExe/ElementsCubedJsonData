@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Gray",
+            "secondary_shirt_color": "Dark Gray",
+            "hat_type": "Mohawk",
+            "hat_color": "Dark Yellow",
+            "skin_color": "Skin Tone 6",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Earth",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

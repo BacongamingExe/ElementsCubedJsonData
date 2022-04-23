@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Light Red",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Light Red",
+            "skin_color": "Glass Blue",
+            "eye_type": "Circle Eyes",
+            "element_type": "Ice",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

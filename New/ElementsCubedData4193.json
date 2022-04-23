@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Gray",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "White",
+            "secondary_shirt_color": "Light Purple",
+            "hat_type": "Ponytail",
+            "hat_color": "Black",
+            "skin_color": "Glass Orange",
+            "eye_type": "Circle Eyes",
+            "element_type": "Electric",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

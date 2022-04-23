@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Red",
+            "secondary_shirt_color": "Light Yellow",
+            "hat_type": "Headband",
+            "hat_color": "Light Pink",
+            "skin_color": "Glass Cyan",
+            "eye_type": "XD Eyes",
+            "element_type": "Ice",
+            "head_effect": "Heart"
+        }
+    ]
+}

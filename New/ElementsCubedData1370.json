@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Green",
+            "secondary_shirt_color": "Red",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Pink",
+            "skin_color": "Glass Blue",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Acid",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

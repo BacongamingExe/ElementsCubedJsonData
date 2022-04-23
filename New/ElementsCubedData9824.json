@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "Dark Yellow",
+            "hat_type": "Mohawk",
+            "hat_color": "Light Pink",
+            "skin_color": "Glass Purple",
+            "eye_type": "Circle Eyes",
+            "element_type": "Air",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

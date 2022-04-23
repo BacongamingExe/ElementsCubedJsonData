@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "White",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Dark Green",
+            "skin_color": "Cyan",
+            "eye_type": "Standard Eyes",
+            "element_type": "Air",
+            "head_effect": "Shield"
+        }
+    ]
+}

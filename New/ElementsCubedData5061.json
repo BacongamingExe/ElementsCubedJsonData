@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "Light Tan",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Light Yellow",
+            "secondary_shirt_color": "Light Green",
+            "hat_type": "Puffballs",
+            "hat_color": "Dark Blue",
+            "skin_color": "Glass Purple",
+            "eye_type": "Standard Eyes",
+            "element_type": "Earth",
+            "head_effect": "Heart"
+        }
+    ]
+}

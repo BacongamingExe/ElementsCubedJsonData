@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Orange",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Light Yellow",
+            "skin_color": "Glass Orange",
+            "eye_type": "Out Eyes",
+            "element_type": "Space",
+            "head_effect": "Heart"
+        }
+    ]
+}

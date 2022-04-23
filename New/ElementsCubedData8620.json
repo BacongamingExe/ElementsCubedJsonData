@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Boxers",
+            "pants_color": "Black",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Light Blue",
+            "secondary_shirt_color": "White",
+            "hat_type": "Headband",
+            "hat_color": "Red",
+            "skin_color": "Cyan",
+            "eye_type": "Circle Eyes",
+            "element_type": "Electric",
+            "head_effect": "Heart"
+        }
+    ]
+}

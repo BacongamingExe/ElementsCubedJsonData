@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Pink",
+            "secondary_shirt_color": "Light Purple",
+            "hat_type": "Top Hat",
+            "hat_color": "Tan",
+            "skin_color": "Skin Tone 4",
+            "eye_type": "Plus Eyes",
+            "element_type": "Space",
+            "head_effect": "Ice"
+        }
+    ]
+}

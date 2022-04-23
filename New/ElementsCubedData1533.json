@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Tan",
+            "secondary_shirt_color": "Green",
+            "hat_type": "Top Hat",
+            "hat_color": "Dark Blue",
+            "skin_color": "Blue",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Metal",
+            "head_effect": "Mystery"
+        }
+    ]
+}

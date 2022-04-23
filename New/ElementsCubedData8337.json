@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Light Yellow",
+            "hat_type": "Beret",
+            "hat_color": "Light Green",
+            "skin_color": "Orange",
+            "eye_type": "Circle Eyes",
+            "element_type": "Fire",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

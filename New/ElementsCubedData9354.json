@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Light Tan",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Gray",
+            "secondary_shirt_color": "Blue",
+            "hat_type": "No Hat",
+            "hat_color": "Dark Yellow",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "Double S Eyes",
+            "element_type": "Ice",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

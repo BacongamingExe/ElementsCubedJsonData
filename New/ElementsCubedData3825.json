@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Brown",
+            "secondary_shirt_color": "Yellow",
+            "hat_type": "Afro",
+            "hat_color": "Light Yellow",
+            "skin_color": "Green",
+            "eye_type": "Out Eyes",
+            "element_type": "Electric",
+            "head_effect": "Shield"
+        }
+    ]
+}

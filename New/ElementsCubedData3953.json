@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Light Blue",
+            "secondary_pants_color": "White",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Gray",
+            "secondary_shirt_color": "Dark Gray",
+            "hat_type": "No Hat",
+            "hat_color": "Blue",
+            "skin_color": "Yellow",
+            "eye_type": "Happy Eyes",
+            "element_type": "Fire",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

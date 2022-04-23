@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Red",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "Green",
+            "hat_type": "Mohawk",
+            "hat_color": "Dark Green",
+            "skin_color": "Green",
+            "eye_type": "Confused Eyes",
+            "element_type": "Ice",
+            "head_effect": "Lightning"
+        }
+    ]
+}

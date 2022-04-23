@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Green",
+            "secondary_shirt_color": "Light Blue",
+            "hat_type": "Ponytail",
+            "hat_color": "Light Green",
+            "skin_color": "Glass",
+            "eye_type": "Closed Eyes",
+            "element_type": "Air",
+            "head_effect": "Speed"
+        }
+    ]
+}

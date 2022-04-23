@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Light Tan",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Green",
+            "secondary_shirt_color": "White",
+            "hat_type": "Puffballs",
+            "hat_color": "White",
+            "skin_color": "Glass Red",
+            "eye_type": "Square Eyes",
+            "element_type": "Fire",
+            "head_effect": "Smoke"
+        }
+    ]
+}

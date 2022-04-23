@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Light Blue",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "White",
+            "secondary_shirt_color": "Light Pink",
+            "hat_type": "Afro",
+            "hat_color": "Dark Purple",
+            "skin_color": "Skin Tone 5",
+            "eye_type": "Closed Eyes",
+            "element_type": "Electric",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

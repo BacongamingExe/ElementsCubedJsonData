@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Tan",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Beret",
+            "hat_color": "Purple",
+            "skin_color": "Glass Purple",
+            "eye_type": "Out Eyes",
+            "element_type": "Fire",
+            "head_effect": "Ice"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Pink",
+            "secondary_shirt_color": "White",
+            "hat_type": "Headband",
+            "hat_color": "Green",
+            "skin_color": "Skin Tone 2",
+            "eye_type": "Standard Eyes",
+            "element_type": "Earth",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

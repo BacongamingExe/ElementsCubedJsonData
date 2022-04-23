@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Gray",
+            "secondary_shirt_color": "Light Red",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Yellow",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Earth",
+            "head_effect": "Mystery"
+        }
+    ]
+}

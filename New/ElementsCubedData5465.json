@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Light Pink",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Light Blue",
+            "skin_color": "Glass Red",
+            "eye_type": "Circle Eyes",
+            "element_type": "Air",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

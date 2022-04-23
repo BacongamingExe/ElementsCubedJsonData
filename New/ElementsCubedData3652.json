@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Cyan",
+            "secondary_shirt_color": "Dark Purple",
+            "hat_type": "Mohawk",
+            "hat_color": "Pink",
+            "skin_color": "Blue",
+            "eye_type": "Happy Eyes",
+            "element_type": "Electric",
+            "head_effect": "Smoke"
+        }
+    ]
+}

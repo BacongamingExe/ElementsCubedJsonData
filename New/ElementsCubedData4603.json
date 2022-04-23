@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Cyan",
+            "secondary_shirt_color": "Dark Blue",
+            "hat_type": "Headband",
+            "hat_color": "Brown",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Double S Eyes",
+            "element_type": "Space",
+            "head_effect": "Lightning"
+        }
+    ]
+}

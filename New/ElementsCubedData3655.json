@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "White",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Green",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Afro",
+            "hat_color": "Dark Red",
+            "skin_color": "Skin Tone 4",
+            "eye_type": "Square Eyes",
+            "element_type": "Metal",
+            "head_effect": "Shield"
+        }
+    ]
+}

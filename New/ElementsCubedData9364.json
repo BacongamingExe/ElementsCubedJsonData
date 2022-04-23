@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Black",
+            "hat_type": "Ponytail",
+            "hat_color": "Light Blue",
+            "skin_color": "Skin Tone 2",
+            "eye_type": "Out Eyes",
+            "element_type": "Acid",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

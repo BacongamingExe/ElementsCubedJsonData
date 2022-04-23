@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Gray",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Blue",
+            "secondary_shirt_color": "Dark Purple",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Light Green",
+            "skin_color": "Glass",
+            "eye_type": "Standard Eyes",
+            "element_type": "Earth",
+            "head_effect": "Ammo"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Light Green",
+            "secondary_shirt_color": "Light Pink",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Green",
+            "skin_color": "Skin Tone 4",
+            "eye_type": "Plus Eyes",
+            "element_type": "Metal",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

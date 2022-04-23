@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Afro",
+            "hat_color": "Dark Red",
+            "skin_color": "Red",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Ice",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

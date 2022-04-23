@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Red",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Gray",
+            "secondary_shirt_color": "Orange",
+            "hat_type": "Normal Hair",
+            "hat_color": "Dark Pink",
+            "skin_color": "Glass Blue",
+            "eye_type": "Closed Happy Eyes",
+            "element_type": "Air",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

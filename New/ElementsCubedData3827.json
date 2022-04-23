@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Gray",
+            "secondary_shirt_color": "Dark Yellow",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Light Yellow",
+            "skin_color": "Skin Tone 2",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Earth",
+            "head_effect": "Ice"
+        }
+    ]
+}

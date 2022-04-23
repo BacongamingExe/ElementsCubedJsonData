@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Red",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Cyan",
+            "secondary_shirt_color": "Dark Pink",
+            "hat_type": "Puffballs",
+            "hat_color": "Pink",
+            "skin_color": "Skin Tone 3",
+            "eye_type": "Standard Eyes",
+            "element_type": "Nature",
+            "head_effect": "Lightning"
+        }
+    ]
+}

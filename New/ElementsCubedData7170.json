@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Gray",
+            "secondary_pants_color": "White",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Beret",
+            "hat_color": "Black",
+            "skin_color": "Skin Tone 2",
+            "eye_type": "Happy Eyes",
+            "element_type": "Fire",
+            "head_effect": "Smoke"
+        }
+    ]
+}

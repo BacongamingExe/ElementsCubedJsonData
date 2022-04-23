@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Black",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Brown",
+            "secondary_shirt_color": "Dark Pink",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Dark Yellow",
+            "skin_color": "Glass Cyan",
+            "eye_type": "Confused Eyes",
+            "element_type": "Acid",
+            "head_effect": "Smoke"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Light Yellow",
+            "secondary_shirt_color": "Light Pink",
+            "hat_type": "Normal Hair",
+            "hat_color": "Light Green",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "Plus Eyes",
+            "element_type": "Ice",
+            "head_effect": "Aura"
+        }
+    ]
+}

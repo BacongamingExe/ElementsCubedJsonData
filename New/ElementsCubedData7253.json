@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Boxers",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Purple",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "Afro",
+            "hat_color": "Purple",
+            "skin_color": "Glass Pink",
+            "eye_type": "Double S Eyes",
+            "element_type": "Nature",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

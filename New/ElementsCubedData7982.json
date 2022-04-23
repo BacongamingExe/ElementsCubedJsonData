@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Black",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Light Blue",
+            "secondary_shirt_color": "Dark Orange",
+            "hat_type": "Afro",
+            "hat_color": "Light Pink",
+            "skin_color": "Glass Purple",
+            "eye_type": "Plus Eyes",
+            "element_type": "Air",
+            "head_effect": "Speed"
+        }
+    ]
+}

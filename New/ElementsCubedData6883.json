@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Red",
+            "secondary_shirt_color": "Green",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Red",
+            "skin_color": "Glass Pink",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Ice",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

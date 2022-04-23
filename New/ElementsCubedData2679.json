@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Boxers",
+            "pants_color": "Light Tan",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Tan",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Brown",
+            "skin_color": "Glass",
+            "eye_type": "Worn Eyes",
+            "element_type": "Air",
+            "head_effect": "Spikes"
+        }
+    ]
+}

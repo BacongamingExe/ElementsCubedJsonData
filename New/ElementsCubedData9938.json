@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Purple",
+            "secondary_shirt_color": "Green",
+            "hat_type": "Top Hat",
+            "hat_color": "Red",
+            "skin_color": "Glass",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Air",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

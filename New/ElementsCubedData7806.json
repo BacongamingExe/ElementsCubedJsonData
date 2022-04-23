@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Red",
+            "secondary_pants_color": "Light Tan",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Green",
+            "secondary_shirt_color": "White",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "Gray",
+            "skin_color": "Green",
+            "eye_type": "XD Eyes",
+            "element_type": "Space",
+            "head_effect": "Spikes"
+        }
+    ]
+}

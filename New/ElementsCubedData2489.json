@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Red",
+            "secondary_pants_color": "White",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Purple",
+            "secondary_shirt_color": "Dark Orange",
+            "hat_type": "Headband",
+            "hat_color": "Light Green",
+            "skin_color": "Glass Pink",
+            "eye_type": "XD Eyes",
+            "element_type": "Space",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

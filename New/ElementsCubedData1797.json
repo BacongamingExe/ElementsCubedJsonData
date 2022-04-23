@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Gray",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Ponytail",
+            "hat_color": "Light Yellow",
+            "skin_color": "Glass Pink",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Acid",
+            "head_effect": "Heart"
+        }
+    ]
+}

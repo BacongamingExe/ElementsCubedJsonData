@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Orange",
+            "secondary_shirt_color": "Pink",
+            "hat_type": "Top Hat",
+            "hat_color": "Dark Red",
+            "skin_color": "Skin Tone 4",
+            "eye_type": "Plus Eyes",
+            "element_type": "Ice",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

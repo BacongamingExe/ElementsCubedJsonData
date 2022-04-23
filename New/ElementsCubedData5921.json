@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "White",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Light Red",
+            "secondary_shirt_color": "Light Purple",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Light Red",
+            "skin_color": "Glass Red",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Acid",
+            "head_effect": "Shield"
+        }
+    ]
+}

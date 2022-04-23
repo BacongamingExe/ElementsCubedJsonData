@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Dark Gray",
+            "secondary_shirt_color": "Yellow",
+            "hat_type": "Afro",
+            "hat_color": "Dark Purple",
+            "skin_color": "Blue",
+            "eye_type": "Circle Eyes",
+            "element_type": "Earth",
+            "head_effect": "Smoke"
+        }
+    ]
+}

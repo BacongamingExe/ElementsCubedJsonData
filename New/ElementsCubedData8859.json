@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Green",
+            "secondary_shirt_color": "Dark Pink",
+            "hat_type": "Ponytail",
+            "hat_color": "Dark Pink",
+            "skin_color": "Glass Yellow",
+            "eye_type": "XD Eyes",
+            "element_type": "Ice",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

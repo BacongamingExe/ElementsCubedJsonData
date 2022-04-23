@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Light Yellow",
+            "secondary_shirt_color": "Dark Blue",
+            "hat_type": "Normal Hair",
+            "hat_color": "Red",
+            "skin_color": "Skin Tone 4",
+            "eye_type": "Out Eyes",
+            "element_type": "Electric",
+            "head_effect": "Ammo"
+        }
+    ]
+}

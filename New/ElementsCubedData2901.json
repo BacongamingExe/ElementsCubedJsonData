@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Dark Green",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Red",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Red",
+            "skin_color": "Glass Green",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Nature",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

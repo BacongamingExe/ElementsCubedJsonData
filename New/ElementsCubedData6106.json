@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Black",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Tan",
+            "secondary_shirt_color": "Dark Orange",
+            "hat_type": "Afro",
+            "hat_color": "Dark Blue",
+            "skin_color": "Blue",
+            "eye_type": "Plus Eyes",
+            "element_type": "Fire",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

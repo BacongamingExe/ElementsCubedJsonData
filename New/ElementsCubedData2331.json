@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Purple",
+            "secondary_shirt_color": "Gray",
+            "hat_type": "Puffballs",
+            "hat_color": "Light Green",
+            "skin_color": "Green",
+            "eye_type": "Happy Eyes",
+            "element_type": "Metal",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

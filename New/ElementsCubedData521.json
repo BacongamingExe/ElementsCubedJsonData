@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Gray",
+            "secondary_pants_color": "White",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Afro",
+            "hat_color": "Yellow",
+            "skin_color": "Glass Pink",
+            "eye_type": "Circle Eyes",
+            "element_type": "Space",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

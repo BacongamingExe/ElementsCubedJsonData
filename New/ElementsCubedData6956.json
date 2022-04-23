@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Light Blue",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Green",
+            "secondary_shirt_color": "Dark Red",
+            "hat_type": "Top Hat",
+            "hat_color": "Black",
+            "skin_color": "Yellow",
+            "eye_type": "Double S Eyes",
+            "element_type": "Space",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Boxers",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Brown",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Light Blue",
+            "skin_color": "Glass Pink",
+            "eye_type": "Standard Eyes",
+            "element_type": "Fire",
+            "head_effect": "Heart"
+        }
+    ]
+}

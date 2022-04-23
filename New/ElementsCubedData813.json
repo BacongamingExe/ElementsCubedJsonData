@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Light Tan",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Black",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Dark Orange",
+            "skin_color": "Skin Tone 6",
+            "eye_type": "Square Eyes",
+            "element_type": "Space",
+            "head_effect": "Speed"
+        }
+    ]
+}

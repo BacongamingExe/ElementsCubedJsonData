@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Light Blue",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Light Red",
+            "hat_type": "Beret",
+            "hat_color": "Cyan",
+            "skin_color": "Glass Cyan",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Metal",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

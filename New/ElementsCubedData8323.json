@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "White",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Pink",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Dark Yellow",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Nature",
+            "head_effect": "Heart"
+        }
+    ]
+}

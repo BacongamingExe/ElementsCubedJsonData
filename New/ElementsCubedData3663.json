@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Light Yellow",
+            "secondary_shirt_color": "Light Yellow",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Black",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "Circle Eyes",
+            "element_type": "Electric",
+            "head_effect": "Spikes"
+        }
+    ]
+}

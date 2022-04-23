@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Black",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Purple",
+            "secondary_shirt_color": "Dark Red",
+            "hat_type": "Mohawk",
+            "hat_color": "Purple",
+            "skin_color": "Pink",
+            "eye_type": "XD Eyes",
+            "element_type": "Electric",
+            "head_effect": "Shield"
+        }
+    ]
+}

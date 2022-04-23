@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "White",
+            "hat_type": "Ponytail",
+            "hat_color": "Green",
+            "skin_color": "Glass Blue",
+            "eye_type": "Circle Eyes",
+            "element_type": "Acid",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

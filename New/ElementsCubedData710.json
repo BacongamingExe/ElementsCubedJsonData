@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Light Yellow",
+            "secondary_shirt_color": "Dark Pink",
+            "hat_type": "Puffballs",
+            "hat_color": "Black",
+            "skin_color": "Blue",
+            "eye_type": "Happy Eyes",
+            "element_type": "Air",
+            "head_effect": "Aura"
+        }
+    ]
+}

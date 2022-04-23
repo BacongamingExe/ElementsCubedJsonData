@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Dark Green",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Purple",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Beret",
+            "hat_color": "Dark Pink",
+            "skin_color": "Pink",
+            "eye_type": "Double S Eyes",
+            "element_type": "Fire",
+            "head_effect": "Green Cross"
+        }
+    ]
+}

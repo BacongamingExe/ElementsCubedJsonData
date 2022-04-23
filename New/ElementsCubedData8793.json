@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Light Tan",
+            "secondary_pants_color": "White",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Light Green",
+            "secondary_shirt_color": "Brown",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Orange",
+            "skin_color": "Pink",
+            "eye_type": "Square Eyes",
+            "element_type": "Nature",
+            "head_effect": "Shield"
+        }
+    ]
+}

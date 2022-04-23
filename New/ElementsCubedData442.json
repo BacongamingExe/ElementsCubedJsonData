@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Dark Green",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Dark Red",
+            "secondary_shirt_color": "Red",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Tan",
+            "skin_color": "Skin Tone 4",
+            "eye_type": "Standard Eyes",
+            "element_type": "Space",
+            "head_effect": "Mystery"
+        }
+    ]
+}

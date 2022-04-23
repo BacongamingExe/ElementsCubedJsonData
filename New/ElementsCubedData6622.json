@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Tan",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Tan",
+            "skin_color": "Glass Cyan",
+            "eye_type": "XD Eyes",
+            "element_type": "Electric",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

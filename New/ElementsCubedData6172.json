@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Green",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Pink",
+            "secondary_shirt_color": "Light Yellow",
+            "hat_type": "Mohawk",
+            "hat_color": "White",
+            "skin_color": "Glass Cyan",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Space",
+            "head_effect": "Heart"
+        }
+    ]
+}

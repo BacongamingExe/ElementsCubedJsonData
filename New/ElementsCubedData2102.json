@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Gray",
+            "secondary_shirt_color": "Light Green",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Light Pink",
+            "skin_color": "Glass Cyan",
+            "eye_type": "Out Eyes",
+            "element_type": "Metal",
+            "head_effect": "Ammo"
+        }
+    ]
+}

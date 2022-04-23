@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Pink",
+            "secondary_shirt_color": "Light Red",
+            "hat_type": "No Hat",
+            "hat_color": "Pink",
+            "skin_color": "Pink",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Space",
+            "head_effect": "Smoke"
+        }
+    ]
+}

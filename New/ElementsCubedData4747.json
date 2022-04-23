@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Light Pink",
+            "secondary_shirt_color": "White",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "Cyan",
+            "skin_color": "Skin Tone 6",
+            "eye_type": "Plus Eyes",
+            "element_type": "Nature",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

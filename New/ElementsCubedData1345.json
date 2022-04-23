@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Dark Blue",
+            "secondary_shirt_color": "Cyan",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Pink",
+            "skin_color": "Red",
+            "eye_type": "Crossed Eyes",
+            "element_type": "Acid",
+            "head_effect": "Shield"
+        }
+    ]
+}

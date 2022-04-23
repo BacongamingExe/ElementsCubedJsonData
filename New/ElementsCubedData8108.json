@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Light Blue",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Yellow",
+            "secondary_shirt_color": "Pink",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Pink",
+            "skin_color": "Skin Tone 1",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Electric",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

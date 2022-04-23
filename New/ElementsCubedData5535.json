@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Gray",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Black",
+            "secondary_shirt_color": "Orange",
+            "hat_type": "Backwards Baseball Hat",
+            "hat_color": "Dark Blue",
+            "skin_color": "Glass Orange",
+            "eye_type": "Out Eyes",
+            "element_type": "Ice",
+            "head_effect": "Smoke"
+        }
+    ]
+}

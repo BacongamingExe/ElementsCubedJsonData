@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Dark Blue",
+            "secondary_shirt_color": "Pink",
+            "hat_type": "No Hat",
+            "hat_color": "Yellow",
+            "skin_color": "Glass Yellow",
+            "eye_type": "Confused Eyes",
+            "element_type": "Air",
+            "head_effect": "Ammo"
+        }
+    ]
+}

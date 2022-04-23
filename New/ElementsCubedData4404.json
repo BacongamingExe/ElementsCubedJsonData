@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Green",
+            "secondary_shirt_color": "Light Yellow",
+            "hat_type": "Top Hat",
+            "hat_color": "Cyan",
+            "skin_color": "Glass",
+            "eye_type": "Worn Eyes",
+            "element_type": "Earth",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

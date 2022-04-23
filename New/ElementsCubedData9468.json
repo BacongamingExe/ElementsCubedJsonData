@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Light Red",
+            "skin_color": "Cyan",
+            "eye_type": "Double S Eyes",
+            "element_type": "Air",
+            "head_effect": "Regeneration"
+        }
+    ]
+}

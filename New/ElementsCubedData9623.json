@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Boxers",
+            "pants_color": "White",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Pink",
+            "secondary_shirt_color": "Pink",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Dark Green",
+            "skin_color": "Green",
+            "eye_type": "Out Eyes",
+            "element_type": "Space",
+            "head_effect": "Shield"
+        }
+    ]
+}

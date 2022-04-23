@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Light Purple",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "Puffballs",
+            "hat_color": "Dark Orange",
+            "skin_color": "Skin Tone 6",
+            "eye_type": "Square Eyes",
+            "element_type": "Ice",
+            "head_effect": "Aura"
+        }
+    ]
+}

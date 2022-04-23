@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Red",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Blue",
+            "secondary_shirt_color": "Yellow",
+            "hat_type": "Beret",
+            "hat_color": "White",
+            "skin_color": "Glass",
+            "eye_type": "Closed Eyes",
+            "element_type": "Ice",
+            "head_effect": "Heart"
+        }
+    ]
+}

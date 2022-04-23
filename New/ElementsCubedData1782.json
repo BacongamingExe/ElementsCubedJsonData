@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Orange",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Pink",
+            "secondary_shirt_color": "Light Pink",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Blue",
+            "skin_color": "Glass Orange",
+            "eye_type": "Happy Eyes",
+            "element_type": "Acid",
+            "head_effect": "Mystery"
+        }
+    ]
+}

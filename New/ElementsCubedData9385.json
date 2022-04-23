@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Red",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Blue",
+            "secondary_shirt_color": "Blue",
+            "hat_type": "No Hat",
+            "hat_color": "Light Red",
+            "skin_color": "Pink",
+            "eye_type": "Circle Eyes",
+            "element_type": "Space",
+            "head_effect": "Aura"
+        }
+    ]
+}

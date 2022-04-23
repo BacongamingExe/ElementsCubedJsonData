@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Red",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Pink",
+            "secondary_shirt_color": "Gray",
+            "hat_type": "Ponytail",
+            "hat_color": "Light Pink",
+            "skin_color": "Pink",
+            "eye_type": "Standard Eyes",
+            "element_type": "Air",
+            "head_effect": "Aura"
+        }
+    ]
+}

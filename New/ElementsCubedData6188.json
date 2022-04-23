@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Light Tan",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Green",
+            "secondary_shirt_color": "Gray",
+            "hat_type": "Ponytail",
+            "hat_color": "Dark Blue",
+            "skin_color": "Orange",
+            "eye_type": "Confused Eyes",
+            "element_type": "Space",
+            "head_effect": "Heart"
+        }
+    ]
+}

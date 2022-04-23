@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Light Tan",
+            "secondary_pants_color": "White",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Light Yellow",
+            "secondary_shirt_color": "Dark Yellow",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "Dark Red",
+            "skin_color": "Red",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Metal",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

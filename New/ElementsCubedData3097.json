@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Light Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Cyan",
+            "secondary_shirt_color": "Light Pink",
+            "hat_type": "Puffballs",
+            "hat_color": "White",
+            "skin_color": "Glass Red",
+            "eye_type": "Square Eyes",
+            "element_type": "Air",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

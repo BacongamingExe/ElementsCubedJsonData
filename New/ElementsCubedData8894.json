@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Green",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Blue",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Normal Hair",
+            "hat_color": "Orange",
+            "skin_color": "Glass Purple",
+            "eye_type": "Circle Eyes",
+            "element_type": "Earth",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

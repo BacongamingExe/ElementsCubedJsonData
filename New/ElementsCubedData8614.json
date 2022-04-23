@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Light Tan",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "Orange",
+            "hat_type": "Forward Swipe Hair",
+            "hat_color": "Light Blue",
+            "skin_color": "Glass Pink",
+            "eye_type": "Square Eyes",
+            "element_type": "Earth",
+            "head_effect": "Lightning"
+        }
+    ]
+}

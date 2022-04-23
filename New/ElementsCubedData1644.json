@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Light Orange",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Orange",
+            "secondary_shirt_color": "Dark Orange",
+            "hat_type": "Top Hat",
+            "hat_color": "Light Green",
+            "skin_color": "Glass Orange",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Earth",
+            "head_effect": "Shield"
+        }
+    ]
+}

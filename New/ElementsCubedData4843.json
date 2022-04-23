@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Gray",
+            "secondary_shirt_color": "Brown",
+            "hat_type": "Aviator Hat",
+            "hat_color": "Green",
+            "skin_color": "Cyan",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Air",
+            "head_effect": "Speed"
+        }
+    ]
+}

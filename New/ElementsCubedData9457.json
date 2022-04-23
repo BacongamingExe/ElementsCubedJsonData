@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Blue",
+            "secondary_shirt_color": "Light Red",
+            "hat_type": "Ponytail",
+            "hat_color": "Dark Orange",
+            "skin_color": "Purple",
+            "eye_type": "Confused Eyes",
+            "element_type": "Air",
+            "head_effect": "Speed"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Tan",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "Cyan",
+            "secondary_shirt_color": "Light Pink",
+            "hat_type": "Bucket Hat",
+            "hat_color": "White",
+            "skin_color": "Orange",
+            "eye_type": "Closed Eyes",
+            "element_type": "Acid",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

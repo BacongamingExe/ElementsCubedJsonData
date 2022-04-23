@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Tan",
+            "secondary_pants_color": "Blue",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Gray",
+            "secondary_shirt_color": "Blue",
+            "hat_type": "Puffballs",
+            "hat_color": "Pink",
+            "skin_color": "Glass Blue",
+            "eye_type": "Happy Eyes",
+            "element_type": "Acid",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

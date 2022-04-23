@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "White",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Gray",
+            "secondary_shirt_color": "Dark Green",
+            "hat_type": "Ponytail",
+            "hat_color": "Green",
+            "skin_color": "Glass Cyan",
+            "eye_type": "Closed Eyes",
+            "element_type": "Ice",
+            "head_effect": "Shield"
+        }
+    ]
+}

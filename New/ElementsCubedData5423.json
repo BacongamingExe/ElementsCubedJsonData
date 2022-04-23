@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Red",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Green",
+            "secondary_shirt_color": "Dark Gray",
+            "hat_type": "Top Hat",
+            "hat_color": "Gray",
+            "skin_color": "Glass Yellow",
+            "eye_type": "Double S Eyes",
+            "element_type": "Electric",
+            "head_effect": "Aura"
+        }
+    ]
+}

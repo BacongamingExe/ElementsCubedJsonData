@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Green",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Brown",
+            "secondary_shirt_color": "Light Green",
+            "hat_type": "Puffballs",
+            "hat_color": "Brown",
+            "skin_color": "Glass Yellow",
+            "eye_type": "Confused Eyes",
+            "element_type": "Space",
+            "head_effect": "Ammo"
+        }
+    ]
+}

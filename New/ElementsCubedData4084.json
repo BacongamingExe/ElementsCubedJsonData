@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Green",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Purple",
+            "secondary_shirt_color": "White",
+            "hat_type": "Puffballs",
+            "hat_color": "White",
+            "skin_color": "Blue",
+            "eye_type": "Standard Eyes",
+            "element_type": "Nature",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

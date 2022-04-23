@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Pink",
+            "secondary_pants_color": "Gray",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Light Green",
+            "secondary_shirt_color": "Brown",
+            "hat_type": "Normal Hair",
+            "hat_color": "Blue",
+            "skin_color": "Glass Green",
+            "eye_type": "Out Eyes",
+            "element_type": "Fire",
+            "head_effect": "Aura"
+        }
+    ]
+}

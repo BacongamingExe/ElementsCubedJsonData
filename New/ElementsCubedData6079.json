@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Boxers",
+            "pants_color": "Green",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Full Sleeve Jacket",
+            "shirt_color": "White",
+            "secondary_shirt_color": "Brown",
+            "hat_type": "Ponytail",
+            "hat_color": "Red",
+            "skin_color": "Glass Red",
+            "eye_type": "XD Eyes",
+            "element_type": "Acid",
+            "head_effect": "Spikes"
+        }
+    ]
+}

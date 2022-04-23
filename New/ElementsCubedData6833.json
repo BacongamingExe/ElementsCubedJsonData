@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Light Red",
+            "secondary_shirt_color": "Light Blue",
+            "hat_type": "Mohawk",
+            "hat_color": "Light Blue",
+            "skin_color": "Glass Purple",
+            "eye_type": "Triangle Eyes",
+            "element_type": "Space",
+            "head_effect": "Heart"
+        }
+    ]
+}

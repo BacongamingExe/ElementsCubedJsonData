@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Boxers",
+            "pants_color": "Dark Green",
+            "secondary_pants_color": "Light Blue",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Light Pink",
+            "secondary_shirt_color": "Orange",
+            "hat_type": "Afro",
+            "hat_color": "Purple",
+            "skin_color": "Glass",
+            "eye_type": "Double S Eyes",
+            "element_type": "Fire",
+            "head_effect": "Omega Hole"
+        }
+    ]
+}

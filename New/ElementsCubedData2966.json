@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Red",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Dark Green",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Mohawk",
+            "hat_color": "Pink",
+            "skin_color": "Skin Tone 5",
+            "eye_type": "Square Eyes",
+            "element_type": "Nature",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

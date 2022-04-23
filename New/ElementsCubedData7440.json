@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Light Orange",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Red",
+            "secondary_shirt_color": "Light Pink",
+            "hat_type": "Top Hat",
+            "hat_color": "Tan",
+            "skin_color": "Skin Tone 6",
+            "eye_type": "Plus Eyes",
+            "element_type": "Earth",
+            "head_effect": "Ribbon"
+        }
+    ]
+}

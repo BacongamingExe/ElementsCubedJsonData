@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Purple",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Cyan",
+            "secondary_shirt_color": "Purple",
+            "hat_type": "Hat With No Brim",
+            "hat_color": "Purple",
+            "skin_color": "Yellow",
+            "eye_type": "Circle Eyes",
+            "element_type": "Metal",
+            "head_effect": "Bubbles"
+        }
+    ]
+}

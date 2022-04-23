@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Bottomless Jeans",
+            "pants_color": "Blue",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Dark Yellow",
+            "secondary_shirt_color": "Blue",
+            "hat_type": "Ponytail",
+            "hat_color": "Purple",
+            "skin_color": "Red",
+            "eye_type": "Worn Eyes",
+            "element_type": "Space",
+            "head_effect": "Aura"
+        }
+    ]
+}

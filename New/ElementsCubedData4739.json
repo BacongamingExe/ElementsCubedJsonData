@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Jeans",
+            "pants_color": "Light Green",
+            "secondary_pants_color": "Dark Blue",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Gray",
+            "secondary_shirt_color": "White",
+            "hat_type": "Ponytail",
+            "hat_color": "Orange",
+            "skin_color": "Glass",
+            "eye_type": "Standard Eyes",
+            "element_type": "Metal",
+            "head_effect": "Shield"
+        }
+    ]
+}

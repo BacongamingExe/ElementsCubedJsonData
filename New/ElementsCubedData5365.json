@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Shorts",
+            "pants_color": "White",
+            "secondary_pants_color": "Black",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Dark Blue",
+            "secondary_shirt_color": "Green",
+            "hat_type": "Bucket Hat",
+            "hat_color": "Dark Blue",
+            "skin_color": "Green",
+            "eye_type": "Square Eyes",
+            "element_type": "Electric",
+            "head_effect": "Heart"
+        }
+    ]
+}

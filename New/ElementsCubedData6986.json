@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Split Color Boxers",
+            "pants_color": "Dark Blue",
+            "secondary_pants_color": "Purple",
+            "shirt_type": "Full Sleeve Split Color Jacket",
+            "shirt_color": "Purple",
+            "secondary_shirt_color": "Dark Yellow",
+            "hat_type": "Ponytail",
+            "hat_color": "Green",
+            "skin_color": "Orange",
+            "eye_type": "Happy Eyes",
+            "element_type": "Space",
+            "head_effect": "Shield"
+        }
+    ]
+}

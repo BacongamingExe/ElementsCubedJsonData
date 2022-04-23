@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Jeans",
+            "pants_color": "Light Tan",
+            "secondary_pants_color": "Red",
+            "shirt_type": "Short Sleeve Split Color Jacket",
+            "shirt_color": "Black",
+            "secondary_shirt_color": "Yellow",
+            "hat_type": "Headband",
+            "hat_color": "Light Red",
+            "skin_color": "Purple",
+            "eye_type": "Cautious Eyes",
+            "element_type": "Space",
+            "head_effect": "Ice"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Light Tan",
+            "secondary_pants_color": "Pink",
+            "shirt_type": "Short Sleeve Jacket",
+            "shirt_color": "Red",
+            "secondary_shirt_color": "Red",
+            "hat_type": "Afro",
+            "hat_color": "Dark Orange",
+            "skin_color": "Green",
+            "eye_type": "Circle Eyes",
+            "element_type": "Earth",
+            "head_effect": "Smoke"
+        }
+    ]
+}

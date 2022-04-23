@@ -1,0 +1,18 @@
+{
+    "attributes": [
+        {
+            "pants_type": "Shorts",
+            "pants_color": "Orange",
+            "secondary_pants_color": "Dark Green",
+            "shirt_type": "Sleeveless Jacket",
+            "shirt_color": "Dark Purple",
+            "secondary_shirt_color": "Yellow",
+            "hat_type": "Baseball Hat",
+            "hat_color": "Dark Orange",
+            "skin_color": "Glass Green",
+            "eye_type": "Plus Eyes",
+            "element_type": "Fire",
+            "head_effect": "Speed"
+        }
+    ]
+}
